@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IWRL6432B")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/LIB_IWRL6432BDQAYFFR/KiCADv6/2025-04-12_10-49-03.kicad_sym")(options "")(descr ""))
+  (lib (name "XI6432B")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/LIB_XI6432BRQAAMY/KiCADv6/2025-04-12_10-45-55.kicad_sym")(options "")(descr ""))
+)
