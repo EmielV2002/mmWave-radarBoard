@@ -7,4 +7,5 @@
   (lib (name "TCAN1042HGVDRQ1")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TCAN1042HGVDRQ1/TCAN1042HGVDRQ1.kicad_sym")(options "")(descr ""))
   (lib (name "TLIN1039DDFRQ1")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TLIN1039DDFRQ1/TLIN1039DDFRQ1.kicad_sym")(options "")(descr ""))
   (lib (name "TRS3221EIDBR")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TRS3221EIDBR/TRS3221EIDBR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC1G11DSFR")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/SN74LVC1G11DSFR/SN74LVC1G11DSFR.kicad_sym")(options "")(descr ""))
 )

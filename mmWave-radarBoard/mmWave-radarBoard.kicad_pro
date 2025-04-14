@@ -708,6 +708,18 @@
     [
       "76364d0f-c268-46d3-bc60-e7b70a775be5",
       "COM busses"
+    ],
+    [
+      "89073105-f515-476e-a18d-be99756d7847",
+      "User switches and reset"
+    ],
+    [
+      "67383843-b151-490b-b925-303d04bb18ba",
+      "xWRL6432AOP interface"
+    ],
+    [
+      "9f94e9cc-adeb-492b-8499-6acdeac38b77",
+      "Muxes"
     ]
   ],
   "text_variables": {}

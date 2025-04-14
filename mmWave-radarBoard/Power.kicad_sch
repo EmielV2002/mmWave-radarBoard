@@ -8,7 +8,7 @@
 		(title "Power")
 		(date "2025-04-13")
 		(rev "V1.0")
-		(company "Emiel V")
+		(company "Designer: EV")
 	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_Switch"
@@ -1964,132 +1964,6 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:NetTie_2"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "NT"
-				(at 0 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "NetTie_2"
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Net tie, 2 pins"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "net tie short"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Net*Tie*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "NetTie_2_0_1"
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "NetTie_2_1_1"
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 2.54)
-					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7236,6 +7110,16 @@
 		)
 		(uuid 4c11d556-2876-4db4-8ac7-201fd73885ea)
 	)
+	(text "5V 3A"
+		(exclude_from_sim no)
+		(at 214.63 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0251161e-8a5e-46a3-bf16-810e7d0d5ba3")
+	)
 	(text "1V2_DIG SUPPLY"
 		(exclude_from_sim no)
 		(at 449.58 323.85 0)
@@ -8061,6 +7945,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64f2d889-20a3-4c57-bc4f-814055eb58e3")
+	)
+	(junction
+		(at 278.13 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "651ae9fe-1615-417e-a9d1-99e20292591c")
 	)
 	(junction
 		(at 302.26 326.39)
@@ -8926,16 +8816,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 41.91) (xy 115.57 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a8c7e0d-d9c5-48bf-9c29-37dfc74aa4a0")
-	)
-	(wire
-		(pts
 			(xy 257.81 252.73) (xy 260.35 252.73)
 		)
 		(stroke
@@ -9706,6 +9586,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 41.91) (xy 115.57 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "348029f7-6d49-4756-a3c7-14e345dc9889")
+	)
+	(wire
+		(pts
 			(xy 486.41 256.54) (xy 486.41 257.81)
 		)
 		(stroke
@@ -9793,16 +9683,6 @@
 			(type default)
 		)
 		(uuid "385155bf-9e8d-4248-bbe6-52186abe4d34")
-	)
-	(wire
-		(pts
-			(xy 59.69 125.73) (xy 64.77 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "388a49e5-b39b-41e9-b085-5f170dee40c7")
 	)
 	(wire
 		(pts
@@ -9943,6 +9823,16 @@
 			(type default)
 		)
 		(uuid "3cba1495-76a4-475a-a7ce-f606602c8267")
+	)
+	(wire
+		(pts
+			(xy 275.59 31.75) (xy 278.13 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9dd6ef-3459-4052-8d6b-66ba5a8f9747")
 	)
 	(wire
 		(pts
@@ -11226,6 +11116,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 31.75) (xy 264.16 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7efd4fae-0dce-48f4-aa06-41d2883fb4c4")
+	)
+	(wire
+		(pts
 			(xy 444.5 138.43) (xy 433.07 138.43)
 		)
 		(stroke
@@ -11333,6 +11233,16 @@
 			(type default)
 		)
 		(uuid "840c8595-e803-4780-b508-a939235c779b")
+	)
+	(wire
+		(pts
+			(xy 278.13 31.75) (xy 278.13 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8432463e-81ee-452c-9ef3-9510c38de247")
 	)
 	(wire
 		(pts
@@ -11503,6 +11413,16 @@
 			(type default)
 		)
 		(uuid "8f374dab-7668-491a-84af-bd93823810ea")
+	)
+	(wire
+		(pts
+			(xy 60.96 125.73) (xy 64.77 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fa51563-d46d-4bde-bd96-07b1aae562fb")
 	)
 	(wire
 		(pts
@@ -11746,7 +11666,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 125.73) (xy 54.61 125.73)
+			(xy 48.26 125.73) (xy 53.34 125.73)
 		)
 		(stroke
 			(width 0)
@@ -12276,7 +12196,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 43.18) (xy 279.4 43.18)
+			(xy 275.59 43.18) (xy 278.13 43.18)
 		)
 		(stroke
 			(width 0)
@@ -12483,6 +12403,16 @@
 			(type default)
 		)
 		(uuid "b630eaac-2ebd-46a2-99a2-7f00c61d9f96")
+	)
+	(wire
+		(pts
+			(xy 267.97 31.75) (xy 264.16 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6314744-d63a-4e89-b453-d20f71751577")
 	)
 	(wire
 		(pts
@@ -13476,7 +13406,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 41.91) (xy 105.41 41.91)
+			(xy 100.33 41.91) (xy 104.14 41.91)
 		)
 		(stroke
 			(width 0)
@@ -13543,6 +13473,16 @@
 			(type default)
 		)
 		(uuid "e9b26752-243e-4dc0-b6b4-9ff1e0e22deb")
+	)
+	(wire
+		(pts
+			(xy 278.13 43.18) (xy 279.4 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9fea97d-6a37-4768-89cc-ba3b06fbc791")
 	)
 	(wire
 		(pts
@@ -14844,7 +14784,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "30@100MHz 4A"
 			(at 271.7292 38.1 90)
 			(effects
 				(font
@@ -18129,6 +18069,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 107.95 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2cbcf5dc-81d8-4a90-80be-11b9e5f7baac")
+		(property "Reference" "FB202"
+			(at 107.8992 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "30@100MHz 2.2A"
+			(at 107.8992 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.95 43.688 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 107.95 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c2268e4d-e875-44b3-b184-be28498a2882")
+		)
+		(pin "1"
+			(uuid "4c3c1fb5-10af-4099-be5d-a89d417f859b")
+		)
+		(instances
+			(project ""
+				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
+					(reference "FB202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 182.88 160.02 0)
 		(unit 1)
@@ -19745,6 +19753,74 @@
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
 					(reference "#PWR0232")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 57.15 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e6b3f02-0794-4f94-9ff7-7268cf8ea01f")
+		(property "Reference" "FB204"
+			(at 57.0992 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "30@100MHz 2.2A"
+			(at 57.0992 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 57.15 127.508 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 57.15 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "be6e47e8-d04f-4ccc-bb1b-35614ed69841")
+		)
+		(pin "1"
+			(uuid "0c23c309-c845-4618-8dd7-1510f9212ed2")
+		)
+		(instances
+			(project "mmWave-radarBoard"
+				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
+					(reference "FB204")
 					(unit 1)
 				)
 			)
@@ -21864,74 +21940,6 @@
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
 					(reference "#PWR0218")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 57.15 125.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "796f5468-419c-4fbb-9146-f42d997ce99b")
-		(property "Reference" "NT202"
-			(at 57.15 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 57.15 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 57.15 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 57.15 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 57.15 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3ed6256e-6940-40d1-a1ee-51b1beeed028")
-		)
-		(pin "1"
-			(uuid "fff3c6af-8880-4260-afb6-6d3b5ca279a8")
-		)
-		(instances
-			(project "mmWave-radarBoard"
-				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
-					(reference "NT202")
 					(unit 1)
 				)
 			)
@@ -27581,6 +27589,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 271.78 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4150142-5a03-428b-af7f-e7fb4b14fa5b")
+		(property "Reference" "FB203"
+			(at 271.7292 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "30@100MHz 4A"
+			(at 271.7292 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 271.78 33.528 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 271.78 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead"
+			(at 271.78 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "332e4cdd-0290-4c0f-8fd6-c72534e56944")
+		)
+		(pin "2"
+			(uuid "2d2bfdb7-7c60-4963-8e5c-05461d60a0b0")
+		)
+		(instances
+			(project "mmWave-radarBoard"
+				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
+					(reference "FB203")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 264.16 49.53 0)
 		(unit 1)
@@ -29980,74 +30056,6 @@
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
 					(reference "#PWR0226")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 107.95 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ffc791cf-d41c-40c2-8305-2257e9afdca2")
-		(property "Reference" "NT201"
-			(at 107.95 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 107.95 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.95 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 107.95 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 107.95 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9b798647-76cf-47f3-ba61-a1bd2ff72f2d")
-		)
-		(pin "1"
-			(uuid "bec023bc-e294-4404-bb58-ed8cf52af57a")
-		)
-		(instances
-			(project ""
-				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/63e9aa23-19c0-43a2-8100-8d16d5100cb9"
-					(reference "NT201")
 					(unit 1)
 				)
 			)
