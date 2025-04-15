@@ -3304,7 +3304,7 @@
 		)
 		(uuid "703344db-5a0a-455e-afc9-84247ac79c85")
 	)
-	(hierarchical_label "XDS_RADAR_~{RST}"
+	(hierarchical_label "RADAR_~{RST}_3"
 		(shape input)
 		(at 64.77 128.27 180)
 		(effects
@@ -3313,7 +3313,7 @@
 			)
 			(justify right)
 		)
-		(uuid "941af76b-5492-49c6-afb0-88f9b6a0e99c")
+		(uuid "888d96bd-745f-43e3-9d8a-e73fa35adad5")
 	)
 	(hierarchical_label "RADAR_~{RST}_1"
 		(shape input)

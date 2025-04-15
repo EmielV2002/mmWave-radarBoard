@@ -14314,7 +14314,7 @@
 		)
 		(uuid "febf6c72-f80d-4d0b-ade8-33aa83f10378")
 	)
-	(hierarchical_label "RADAR_~{RST}"
+	(hierarchical_label "RADAR_~{RST}_3"
 		(shape output)
 		(at 134.62 219.71 0)
 		(effects
@@ -14325,7 +14325,7 @@
 		)
 		(uuid "562a0cca-6b99-4845-87a0-555732845d8b")
 	)
-	(hierarchical_label "USB_D+"
+	(hierarchical_label "FTDI_USB_D+"
 		(shape bidirectional)
 		(at 129.54 77.47 0)
 		(effects
@@ -14347,7 +14347,7 @@
 		)
 		(uuid "c28f6378-cb5e-4d8e-a92c-64f7d55eccdc")
 	)
-	(hierarchical_label "USB_D-"
+	(hierarchical_label "FTDI_USB_D-"
 		(shape bidirectional)
 		(at 129.54 82.55 0)
 		(effects
@@ -25795,7 +25795,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1b56318-6392-401d-8718-dcf72f148ddf")
 		(property "Reference" "R219"

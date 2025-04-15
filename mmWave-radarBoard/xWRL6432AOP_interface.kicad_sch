@@ -3107,16 +3107,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "MX25R1635FZUIH0"
-		(exclude_from_sim no)
-		(at 218.44 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6de1ddcc-733d-48b2-8ecd-7fd5c739422a")
-	)
 	(text_box "xWRL6432AOP QSPI flash"
 		(exclude_from_sim no)
 		(at 147.32 105.41 0)
@@ -4775,7 +4765,7 @@
 		)
 		(uuid "606f686e-bfb4-4393-85ba-84a58ad7948b")
 	)
-	(hierarchical_label "JTAG_RADAR_TDO_SOP0"
+	(hierarchical_label "XDS_DCA_TDO_SOP0"
 		(shape output)
 		(at 204.47 66.04 0)
 		(effects
@@ -4863,7 +4853,7 @@
 		)
 		(uuid "ad73d8a8-553b-4460-86b4-e9c8ff412821")
 	)
-	(hierarchical_label "JTAG_RADAR_TDI"
+	(hierarchical_label "XDS_DCA_TDI"
 		(shape input)
 		(at 204.47 63.5 0)
 		(effects
@@ -4874,7 +4864,7 @@
 		)
 		(uuid "b8489d74-574d-4970-bfc1-3f0ae9368680")
 	)
-	(hierarchical_label "JTAG_RADAR_TMS"
+	(hierarchical_label "XDS_DCA_TMS"
 		(shape input)
 		(at 204.47 68.58 0)
 		(effects
@@ -4896,7 +4886,7 @@
 		)
 		(uuid "c25e6081-2544-4fd2-9611-387ea934b707")
 	)
-	(hierarchical_label "JTAG_RADAR_TCK"
+	(hierarchical_label "XDS_DCA_TCK"
 		(shape input)
 		(at 204.47 60.96 0)
 		(effects
@@ -6906,7 +6896,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MX25R3235FZNxx0"
+		(property "Value" "MX25R1635FZUIH0"
 			(at 217.17 143.5099 0)
 			(effects
 				(font

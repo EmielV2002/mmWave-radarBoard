@@ -5207,7 +5207,7 @@
 		)
 		(uuid "bdd3885b-c5f8-4ec7-ab88-440a9f24f646")
 	)
-	(hierarchical_label "FTDI_USBD+"
+	(hierarchical_label "FTDI_USB_D+"
 		(shape bidirectional)
 		(at 179.07 118.11 180)
 		(effects
@@ -5229,7 +5229,7 @@
 		)
 		(uuid "c3f3bdc8-ba2f-4f15-9d85-4a15ea182b4b")
 	)
-	(hierarchical_label "FTDI_USBD-"
+	(hierarchical_label "FTDI_USB_D-"
 		(shape bidirectional)
 		(at 179.07 120.65 180)
 		(effects
