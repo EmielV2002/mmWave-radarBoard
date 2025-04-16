@@ -14314,7 +14314,7 @@
 		)
 		(uuid "febf6c72-f80d-4d0b-ade8-33aa83f10378")
 	)
-	(hierarchical_label "RADAR_~{RST}_3"
+	(hierarchical_label "RADAR_~{RST}_1"
 		(shape output)
 		(at 134.62 219.71 0)
 		(effects

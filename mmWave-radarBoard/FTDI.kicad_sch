@@ -4891,7 +4891,7 @@
 		(uuid "3801e579-f27c-4f20-b031-806d19e58e44")
 	)
 	(label "USR_LED_SW"
-		(at 243.84 181.61 0)
+		(at 243.84 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
