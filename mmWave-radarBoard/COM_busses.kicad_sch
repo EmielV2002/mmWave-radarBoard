@@ -3769,7 +3769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00807c1c-a2e9-44b6-a174-9926aa46fb86")
-		(property "Reference" "#PWR0347"
+		(property "Reference" "#PWR0405"
 			(at 127 66.04 0)
 			(effects
 				(font
@@ -3819,7 +3819,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0347")
+					(reference "#PWR0405")
 					(unit 1)
 				)
 			)
@@ -3835,7 +3835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "012f9771-e9b2-45fd-a0a2-7429860dfabd")
-		(property "Reference" "#PWR0360"
+		(property "Reference" "#PWR0418"
 			(at 115.57 163.83 0)
 			(effects
 				(font
@@ -3885,7 +3885,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0360")
+					(reference "#PWR0418")
 					(unit 1)
 				)
 			)
@@ -3917,7 +3917,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 52.07 40.9448 0)
 			(effects
 				(font
@@ -3969,7 +3969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0af328c2-390c-4bf5-be47-12c878b223af")
-		(property "Reference" "#PWR0343"
+		(property "Reference" "#PWR0404"
 			(at 41.91 49.53 0)
 			(effects
 				(font
@@ -4019,7 +4019,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0343")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -4035,7 +4035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15450c86-0ea0-4cf0-bf21-4aa23b646c3b")
-		(property "Reference" "#PWR0346"
+		(property "Reference" "#PWR0407"
 			(at 54.61 74.93 0)
 			(effects
 				(font
@@ -4085,7 +4085,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0346")
+					(reference "#PWR0407")
 					(unit 1)
 				)
 			)
@@ -4119,7 +4119,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127.3048 102.87 0)
 			(effects
 				(font
@@ -4348,7 +4348,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1fd29ea4-1263-4e1e-9067-edcc24be302e")
-		(property "Reference" "R259"
+		(property "Reference" "R404"
 			(at 40.64 53.34 90)
 			(effects
 				(font
@@ -4364,7 +4364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 51.562 90)
 			(effects
 				(font
@@ -4400,7 +4400,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R259")
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -4416,7 +4416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23a2b551-592c-4a9b-b21f-a8df1dbd0ec8")
-		(property "Reference" "C408"
+		(property "Reference" "C410"
 			(at 44.45 179.0699 0)
 			(effects
 				(font
@@ -4434,7 +4434,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 39.6748 176.53 0)
 			(effects
 				(font
@@ -4470,7 +4470,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C408")
+					(reference "C410")
 					(unit 1)
 				)
 			)
@@ -4486,7 +4486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c294ce6-cdc2-44ce-9a70-bb5a3596664e")
-		(property "Reference" "#PWR0351"
+		(property "Reference" "#PWR0412"
 			(at 128.27 118.11 0)
 			(effects
 				(font
@@ -4536,7 +4536,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0351")
+					(reference "#PWR0412")
 					(unit 1)
 				)
 			)
@@ -4552,7 +4552,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c6d5da0-a386-451f-aded-33dc1415ba64")
-		(property "Reference" "R265"
+		(property "Reference" "R405"
 			(at 105.41 55.8799 0)
 			(effects
 				(font
@@ -4570,7 +4570,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 104.648 57.15 90)
 			(effects
 				(font
@@ -4606,7 +4606,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R265")
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -4863,7 +4863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3574d89b-8be3-4999-aca7-c23f918caed4")
-		(property "Reference" "#PWR0345"
+		(property "Reference" "#PWR0406"
 			(at 71.12 73.66 0)
 			(effects
 				(font
@@ -4913,7 +4913,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0345")
+					(reference "#PWR0406")
 					(unit 1)
 				)
 			)
@@ -4929,7 +4929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35c63395-4910-481a-b69f-0cedb60ec435")
-		(property "Reference" "D401"
+		(property "Reference" "D402"
 			(at 121.92 149.8599 0)
 			(effects
 				(font
@@ -4987,7 +4987,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "D401")
+					(reference "D402")
 					(unit 1)
 				)
 			)
@@ -5003,7 +5003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ec73f21-2360-4837-add8-0eb71b6d2d94")
-		(property "Reference" "C403"
+		(property "Reference" "C401"
 			(at 93.98 25.4 90)
 			(effects
 				(font
@@ -5019,7 +5019,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 97.79 32.0548 0)
 			(effects
 				(font
@@ -5055,7 +5055,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C403")
+					(reference "C401")
 					(unit 1)
 				)
 			)
@@ -5089,7 +5089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_ZE_B03B-ZESK-D_1x03_P1.50mm_Vertical"
 			(at 147.32 101.6 0)
 			(effects
 				(font
@@ -5144,7 +5144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "492ab1e1-ed29-4164-a910-33d32e2e3844")
-		(property "Reference" "#PWR0350"
+		(property "Reference" "#PWR0414"
 			(at 111.76 127 0)
 			(effects
 				(font
@@ -5194,7 +5194,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0350")
+					(reference "#PWR0414")
 					(unit 1)
 				)
 			)
@@ -5210,7 +5210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "493f3d7b-b484-4b73-b610-d2cef04784b6")
-		(property "Reference" "#PWR0342"
+		(property "Reference" "#PWR0401"
 			(at 86.36 26.67 0)
 			(effects
 				(font
@@ -5260,7 +5260,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0342")
+					(reference "#PWR0401")
 					(unit 1)
 				)
 			)
@@ -5275,7 +5275,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d58b0f5-6874-4e87-bb1e-12f2cd2fa137")
-		(property "Reference" "C406"
+		(property "Reference" "C409"
 			(at 95.25 170.18 90)
 			(effects
 				(font
@@ -5291,7 +5291,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 85.09 171.1452 0)
 			(effects
 				(font
@@ -5327,7 +5327,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C406")
+					(reference "C409")
 					(unit 1)
 				)
 			)
@@ -5343,7 +5343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "504dbfa6-aec5-4fed-8c87-eb41b08f63eb")
-		(property "Reference" "C401"
+		(property "Reference" "C403"
 			(at 119.38 44.45 90)
 			(effects
 				(font
@@ -5359,7 +5359,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 123.19 51.1048 0)
 			(effects
 				(font
@@ -5395,7 +5395,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C401")
+					(reference "C403")
 					(unit 1)
 				)
 			)
@@ -5411,7 +5411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52120047-1676-4ac6-8d4b-3538bd415eb9")
-		(property "Reference" "#PWR0361"
+		(property "Reference" "#PWR0415"
 			(at 134.62 154.94 0)
 			(effects
 				(font
@@ -5461,7 +5461,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0361")
+					(reference "#PWR0415")
 					(unit 1)
 				)
 			)
@@ -5477,7 +5477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a8eecca-1179-42f7-a979-481aa8010895")
-		(property "Reference" "R270"
+		(property "Reference" "R410"
 			(at 74.93 97.7899 0)
 			(effects
 				(font
@@ -5495,7 +5495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 74.168 99.06 90)
 			(effects
 				(font
@@ -5531,7 +5531,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R270")
+					(reference "R410")
 					(unit 1)
 				)
 			)
@@ -5546,7 +5546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5bd8e1ca-2674-4a9f-9ca1-e8bb0dd95c24")
-		(property "Reference" "C407"
+		(property "Reference" "C408"
 			(at 41.91 170.18 90)
 			(effects
 				(font
@@ -5562,7 +5562,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 44.45 171.1452 0)
 			(effects
 				(font
@@ -5598,7 +5598,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C407")
+					(reference "C408")
 					(unit 1)
 				)
 			)
@@ -5614,7 +5614,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f69dec1-e545-4c70-884f-97291d121b68")
-		(property "Reference" "R269"
+		(property "Reference" "R413"
 			(at 59.69 111.76 90)
 			(effects
 				(font
@@ -5630,7 +5630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 67.31 109.982 90)
 			(effects
 				(font
@@ -5666,7 +5666,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R269")
+					(reference "R413")
 					(unit 1)
 				)
 			)
@@ -5682,7 +5682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6380bb0a-eece-4a56-8e10-8ed34e207287")
-		(property "Reference" "#PWR0341"
+		(property "Reference" "#PWR0403"
 			(at 55.88 43.18 0)
 			(effects
 				(font
@@ -5732,7 +5732,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0341")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -5748,7 +5748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63a1f2b7-39a1-4d94-82ba-86f52a0bdae9")
-		(property "Reference" "#PWR0354"
+		(property "Reference" "#PWR0409"
 			(at 67.31 96.52 0)
 			(effects
 				(font
@@ -5798,7 +5798,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0354")
+					(reference "#PWR0409")
 					(unit 1)
 				)
 			)
@@ -5980,7 +5980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68f36253-0580-448b-b4ac-e3077ff8c160")
-		(property "Reference" "#PWR0349"
+		(property "Reference" "#PWR0408"
 			(at 85.09 91.44 0)
 			(effects
 				(font
@@ -6030,7 +6030,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0349")
+					(reference "#PWR0408")
 					(unit 1)
 				)
 			)
@@ -6046,7 +6046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6db5a946-8d4e-4f74-a10a-80e387fbd34b")
-		(property "Reference" "#PWR0355"
+		(property "Reference" "#PWR0421"
 			(at 87.63 191.77 0)
 			(effects
 				(font
@@ -6096,7 +6096,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0355")
+					(reference "#PWR0421")
 					(unit 1)
 				)
 			)
@@ -6112,7 +6112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e2216b0-6322-4da9-b9dd-c2a384cec97e")
-		(property "Reference" "#PWR0353"
+		(property "Reference" "#PWR0410"
 			(at 138.43 97.79 0)
 			(effects
 				(font
@@ -6162,7 +6162,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0353")
+					(reference "#PWR0410")
 					(unit 1)
 				)
 			)
@@ -6178,7 +6178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72ba8e0d-5634-42de-8a7f-95d998239140")
-		(property "Reference" "R263"
+		(property "Reference" "R407"
 			(at 57.15 62.2299 0)
 			(effects
 				(font
@@ -6196,7 +6196,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 56.388 63.5 90)
 			(effects
 				(font
@@ -6232,7 +6232,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R263")
+					(reference "R407")
 					(unit 1)
 				)
 			)
@@ -6247,7 +6247,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7308824a-5136-4231-a6a7-735c668f8b3b")
-		(property "Reference" "R262"
+		(property "Reference" "R406"
 			(at 40.64 58.42 90)
 			(effects
 				(font
@@ -6263,7 +6263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 60.198 90)
 			(effects
 				(font
@@ -6299,7 +6299,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R262")
+					(reference "R406")
 					(unit 1)
 				)
 			)
@@ -6315,7 +6315,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8794d3b6-724e-43ad-8dae-bdfdd6566dc3")
-		(property "Reference" "D208"
+		(property "Reference" "D401"
 			(at 106.9975 82.55 0)
 			(effects
 				(font
@@ -6367,7 +6367,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "D208")
+					(reference "D401")
 					(unit 1)
 				)
 			)
@@ -6383,7 +6383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f45aa9d-2872-4f72-b7b7-8e336503e67c")
-		(property "Reference" "#PWR0357"
+		(property "Reference" "#PWR0419"
 			(at 40.64 172.72 0)
 			(effects
 				(font
@@ -6433,7 +6433,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0357")
+					(reference "#PWR0419")
 					(unit 1)
 				)
 			)
@@ -6449,7 +6449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "992cf884-93f8-459e-a8de-148feb207881")
-		(property "Reference" "R264"
+		(property "Reference" "R402"
 			(at 105.41 45.7199 0)
 			(effects
 				(font
@@ -6467,7 +6467,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 104.648 46.99 90)
 			(effects
 				(font
@@ -6503,7 +6503,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R264")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -6537,7 +6537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_ZE_B03B-ZESK-D_1x03_P1.50mm_Vertical"
 			(at 140.97 143.51 0)
 			(effects
 				(font
@@ -6592,7 +6592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99661a13-8773-4bb8-bd62-d97354bbd809")
-		(property "Reference" "#PWR0356"
+		(property "Reference" "#PWR0420"
 			(at 40.64 191.77 0)
 			(effects
 				(font
@@ -6642,7 +6642,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0356")
+					(reference "#PWR0420")
 					(unit 1)
 				)
 			)
@@ -6658,7 +6658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c5aa3af-9980-4e97-9e87-466ad62817ee")
-		(property "Reference" "#PWR0344"
+		(property "Reference" "#PWR0402"
 			(at 99.06 40.64 0)
 			(effects
 				(font
@@ -6708,7 +6708,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0344")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -6724,7 +6724,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a46b45fc-51ea-4979-b5b7-7e8db874227b")
-		(property "Reference" "R260"
+		(property "Reference" "R403"
 			(at 40.64 50.8 90)
 			(effects
 				(font
@@ -6740,7 +6740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 49.022 90)
 			(effects
 				(font
@@ -6776,7 +6776,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R260")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -6792,7 +6792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "beae88d1-d9ad-4257-9459-3e7c0f3d28a9")
-		(property "Reference" "#PWR0358"
+		(property "Reference" "#PWR0417"
 			(at 44.45 157.48 0)
 			(effects
 				(font
@@ -6843,7 +6843,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0358")
+					(reference "#PWR0417")
 					(unit 1)
 				)
 			)
@@ -6877,7 +6877,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 84.1248 90.17 0)
 			(effects
 				(font
@@ -6929,7 +6929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd5b372c-47d5-4055-8529-b09a855bb9d6")
-		(property "Reference" "R266"
+		(property "Reference" "R408"
 			(at 116.84 82.55 90)
 			(effects
 				(font
@@ -6945,7 +6945,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 116.84 87.122 90)
 			(effects
 				(font
@@ -6981,7 +6981,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R266")
+					(reference "R408")
 					(unit 1)
 				)
 			)
@@ -6997,7 +6997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfd3d41a-3499-4bc3-9b00-415a2c293ee9")
-		(property "Reference" "#PWR0352"
+		(property "Reference" "#PWR0413"
 			(at 138.43 118.11 0)
 			(effects
 				(font
@@ -7047,7 +7047,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0352")
+					(reference "#PWR0413")
 					(unit 1)
 				)
 			)
@@ -7063,7 +7063,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2727712-5e45-44a9-b07e-066b002e8df6")
-		(property "Reference" "R267"
+		(property "Reference" "R411"
 			(at 85.09 106.68 90)
 			(effects
 				(font
@@ -7079,7 +7079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 92.71 104.902 90)
 			(effects
 				(font
@@ -7115,7 +7115,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R267")
+					(reference "R411")
 					(unit 1)
 				)
 			)
@@ -7131,7 +7131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5e21559-9a82-41e4-8915-311bb2800497")
-		(property "Reference" "#PWR0359"
+		(property "Reference" "#PWR0416"
 			(at 52.07 149.86 0)
 			(effects
 				(font
@@ -7182,7 +7182,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0359")
+					(reference "#PWR0416")
 					(unit 1)
 				)
 			)
@@ -7198,7 +7198,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8c7c7d8-e42a-4272-b5bf-6d3406d9fc29")
-		(property "Reference" "C409"
+		(property "Reference" "C406"
 			(at 27.94 162.5599 0)
 			(effects
 				(font
@@ -7216,7 +7216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 30.7848 167.64 0)
 			(effects
 				(font
@@ -7252,7 +7252,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C409")
+					(reference "C406")
 					(unit 1)
 				)
 			)
@@ -7286,7 +7286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_ZE_B03B-ZESK-D_1x03_P1.50mm_Vertical"
 			(at 142.24 52.07 0)
 			(effects
 				(font
@@ -7341,7 +7341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec68c449-9e10-4b0a-988c-daff7768b7d6")
-		(property "Reference" "C410"
+		(property "Reference" "C407"
 			(at 106.68 162.5599 0)
 			(effects
 				(font
@@ -7359,7 +7359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 103.8352 167.64 0)
 			(effects
 				(font
@@ -7395,7 +7395,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "C410")
+					(reference "C407")
 					(unit 1)
 				)
 			)
@@ -7411,7 +7411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee36292a-9e4b-4e55-bfdc-51c37e172c9a")
-		(property "Reference" "R271"
+		(property "Reference" "R409"
 			(at 64.77 97.7899 0)
 			(effects
 				(font
@@ -7429,7 +7429,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 64.008 99.06 90)
 			(effects
 				(font
@@ -7465,7 +7465,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R271")
+					(reference "R409")
 					(unit 1)
 				)
 			)
@@ -7481,7 +7481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ef01d4af-d5c4-4ca5-b0c3-e398b29acee1")
-		(property "Reference" "R261"
+		(property "Reference" "R401"
 			(at 83.82 26.6699 0)
 			(effects
 				(font
@@ -7499,7 +7499,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 84.582 27.94 90)
 			(effects
 				(font
@@ -7535,7 +7535,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R261")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -7551,7 +7551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f00d4fe8-990b-419d-9e02-37bbec80c0bb")
-		(property "Reference" "#PWR0348"
+		(property "Reference" "#PWR0411"
 			(at 85.09 105.41 0)
 			(effects
 				(font
@@ -7601,7 +7601,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "#PWR0348")
+					(reference "#PWR0411")
 					(unit 1)
 				)
 			)
@@ -7617,7 +7617,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f994cf2b-2811-4d56-b99b-502a1def367c")
-		(property "Reference" "R268"
+		(property "Reference" "R412"
 			(at 85.09 109.22 90)
 			(effects
 				(font
@@ -7633,7 +7633,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 92.71 107.442 90)
 			(effects
 				(font
@@ -7669,7 +7669,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "R268")
+					(reference "R412")
 					(unit 1)
 				)
 			)

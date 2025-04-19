@@ -3328,16 +3328,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 52.07) (xy 271.78 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06b162a9-9ee3-462c-ab86-141d5d53e1b6")
-	)
-	(wire
-		(pts
 			(xy 68.58 152.4) (xy 71.12 152.4)
 		)
 		(stroke
@@ -3428,16 +3418,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 64.77) (xy 271.78 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16aa2422-3c14-4ab7-bdf9-832674a0d3b8")
-	)
-	(wire
-		(pts
 			(xy 210.82 114.3) (xy 213.36 114.3)
 		)
 		(stroke
@@ -3495,6 +3475,16 @@
 			(type default)
 		)
 		(uuid "208cd622-5b5f-4baf-bb96-111ff6158b4a")
+	)
+	(wire
+		(pts
+			(xy 267.97 44.45) (xy 271.78 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "215bc4c9-a48f-47a0-be4f-51e2a61b9a8f")
 	)
 	(wire
 		(pts
@@ -3568,26 +3558,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 57.15) (xy 271.78 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f717fd1-a314-4d06-8918-747f6d9967cd")
-	)
-	(wire
-		(pts
-			(xy 267.97 59.69) (xy 271.78 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3274630a-6ff4-4298-8b11-9bceb0f675ec")
-	)
-	(wire
-		(pts
 			(xy 66.04 152.4) (xy 68.58 152.4)
 		)
 		(stroke
@@ -3658,16 +3628,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 46.99) (xy 271.78 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cf5f12f-18eb-4c4d-99dd-5a318453dc13")
-	)
-	(wire
-		(pts
 			(xy 270.51 171.45) (xy 245.11 171.45)
 		)
 		(stroke
@@ -3718,6 +3678,26 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 52.07) (xy 271.78 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51503003-27b6-4dcc-8481-fb38d96c521a")
+	)
+	(wire
+		(pts
+			(xy 267.97 46.99) (xy 271.78 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57f6f123-9666-431e-8000-f2d90db3779e")
+	)
+	(wire
+		(pts
 			(xy 129.54 59.69) (xy 132.08 59.69)
 		)
 		(stroke
@@ -3748,6 +3728,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 64.77) (xy 271.78 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5acc7ae8-f676-4138-878c-cdb15df93b91")
+	)
+	(wire
+		(pts
 			(xy 46.99 104.14) (xy 46.99 99.06)
 		)
 		(stroke
@@ -3755,16 +3745,6 @@
 			(type default)
 		)
 		(uuid "5e56b09f-ef7e-4e96-8ed9-636393e693d9")
-	)
-	(wire
-		(pts
-			(xy 267.97 62.23) (xy 271.78 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61fa3c49-a17e-492f-90b3-e63cb3a455d3")
 	)
 	(wire
 		(pts
@@ -3908,6 +3888,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 49.53) (xy 271.78 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76c13b26-c1e9-404d-8ece-6d48df9b380b")
+	)
+	(wire
+		(pts
 			(xy 201.93 55.88) (xy 201.93 57.15)
 		)
 		(stroke
@@ -4018,6 +4008,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 57.15) (xy 271.78 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fd3bf0f-41cb-4ad9-ac22-d1e9d3be8eb7")
+	)
+	(wire
+		(pts
 			(xy 292.1 156.21) (xy 292.1 154.94)
 		)
 		(stroke
@@ -4035,16 +4035,6 @@
 			(type default)
 		)
 		(uuid "954ebc5c-6471-41e0-8f16-90147e8de84a")
-	)
-	(wire
-		(pts
-			(xy 267.97 44.45) (xy 271.78 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96f71204-fdc6-4216-96ef-c4373bcce200")
 	)
 	(wire
 		(pts
@@ -4115,6 +4105,16 @@
 			(type default)
 		)
 		(uuid "ab997718-7801-4381-9514-d731f97e3e60")
+	)
+	(wire
+		(pts
+			(xy 267.97 59.69) (xy 271.78 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adaf6573-89ca-4cf4-ac31-4079e4a1c894")
 	)
 	(wire
 		(pts
@@ -4225,16 +4225,6 @@
 			(type default)
 		)
 		(uuid "c0e8442c-d960-48d9-9491-65754aff733a")
-	)
-	(wire
-		(pts
-			(xy 267.97 49.53) (xy 271.78 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c56fba64-61d4-44c4-8d55-d80e3d59ad25")
 	)
 	(wire
 		(pts
@@ -4498,6 +4488,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 62.23) (xy 271.78 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1c3e2bb-f77a-4672-b9c0-80ca2c9fa3b5")
+	)
+	(wire
+		(pts
 			(xy 101.6 99.06) (xy 106.68 99.06)
 		)
 		(stroke
@@ -4575,6 +4575,278 @@
 			(type default)
 		)
 		(uuid "feadf518-820d-4195-8b76-d0b221c06113")
+	)
+	(table
+		(column_count 3)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 6.35 6.35 6.35)
+		(row_heights 2.54 2.54 2.54 2.54 2.54)
+		(cells
+			(table_cell "A"
+				(exclude_from_sim no)
+				(at 34.29 158.75 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type color)
+					(color 132 132 132 1)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "64f57b3f-55b5-47bd-841d-312f7013a170")
+			)
+			(table_cell "B"
+				(exclude_from_sim no)
+				(at 40.64 158.75 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type color)
+					(color 132 132 132 1)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "46bfdb61-b1de-4439-b4e5-374ae1af9606")
+			)
+			(table_cell "C"
+				(exclude_from_sim no)
+				(at 46.99 158.75 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type color)
+					(color 132 132 132 1)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "f2dced16-f1e1-4b0e-adbd-16fc4c9c544a")
+			)
+			(table_cell "H"
+				(exclude_from_sim no)
+				(at 34.29 161.29 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "45642886-0601-412c-9b94-9a587fd2aed5")
+			)
+			(table_cell "H"
+				(exclude_from_sim no)
+				(at 40.64 161.29 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "a4cb78d5-ca75-431f-b721-dde592b8c0c9")
+			)
+			(table_cell "H"
+				(exclude_from_sim no)
+				(at 46.99 161.29 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "19ade263-1c9f-4ea2-9d3b-2f358329217e")
+			)
+			(table_cell "L"
+				(exclude_from_sim no)
+				(at 34.29 163.83 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "57f9729d-b2e3-41a0-bd15-651ec0c7f6ac")
+			)
+			(table_cell "X"
+				(exclude_from_sim no)
+				(at 40.64 163.83 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "0a3b51ce-7b88-4a41-8d36-31da1132deed")
+			)
+			(table_cell "X"
+				(exclude_from_sim no)
+				(at 46.99 163.83 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "97f56901-ad28-4d1f-93c6-722a690c4ec5")
+			)
+			(table_cell "X"
+				(exclude_from_sim no)
+				(at 34.29 166.37 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c225a01b-5b0d-4792-92b1-36d61b23fd47")
+			)
+			(table_cell "L"
+				(exclude_from_sim no)
+				(at 40.64 166.37 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "4e2db444-0d3c-4e56-9619-790e3fe201a9")
+			)
+			(table_cell "X"
+				(exclude_from_sim no)
+				(at 46.99 166.37 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "d14d049d-77b0-4993-be43-99e8ff2e43a7")
+			)
+			(table_cell "X"
+				(exclude_from_sim no)
+				(at 34.29 168.91 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "b71d87ed-531e-4580-af8d-a31c937c5bc2")
+			)
+			(table_cell "X"
+				(exclude_from_sim no)
+				(at 40.64 168.91 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "4e29f585-78f3-4dc9-afc9-7dd314e0fb5f")
+			)
+			(table_cell "L"
+				(exclude_from_sim no)
+				(at 46.99 168.91 0)
+				(size 6.35 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "f3667293-942f-4d31-b075-8f4171de1603")
+			)
+		)
 	)
 	(table
 		(column_count 3)
@@ -4957,278 +5229,6 @@
 		)
 	)
 	(table
-		(column_count 3)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 6.35 6.35 6.35)
-		(row_heights 2.54 2.54 2.54 2.54 2.54)
-		(cells
-			(table_cell "A"
-				(exclude_from_sim no)
-				(at 34.29 158.75 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type color)
-					(color 132 132 132 1)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "64f57b3f-55b5-47bd-841d-312f7013a170")
-			)
-			(table_cell "B"
-				(exclude_from_sim no)
-				(at 40.64 158.75 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type color)
-					(color 132 132 132 1)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "46bfdb61-b1de-4439-b4e5-374ae1af9606")
-			)
-			(table_cell "C"
-				(exclude_from_sim no)
-				(at 46.99 158.75 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type color)
-					(color 132 132 132 1)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "f2dced16-f1e1-4b0e-adbd-16fc4c9c544a")
-			)
-			(table_cell "H"
-				(exclude_from_sim no)
-				(at 34.29 161.29 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "45642886-0601-412c-9b94-9a587fd2aed5")
-			)
-			(table_cell "H"
-				(exclude_from_sim no)
-				(at 40.64 161.29 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "a4cb78d5-ca75-431f-b721-dde592b8c0c9")
-			)
-			(table_cell "H"
-				(exclude_from_sim no)
-				(at 46.99 161.29 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "19ade263-1c9f-4ea2-9d3b-2f358329217e")
-			)
-			(table_cell "L"
-				(exclude_from_sim no)
-				(at 34.29 163.83 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "57f9729d-b2e3-41a0-bd15-651ec0c7f6ac")
-			)
-			(table_cell "X"
-				(exclude_from_sim no)
-				(at 40.64 163.83 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "0a3b51ce-7b88-4a41-8d36-31da1132deed")
-			)
-			(table_cell "X"
-				(exclude_from_sim no)
-				(at 46.99 163.83 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "97f56901-ad28-4d1f-93c6-722a690c4ec5")
-			)
-			(table_cell "X"
-				(exclude_from_sim no)
-				(at 34.29 166.37 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c225a01b-5b0d-4792-92b1-36d61b23fd47")
-			)
-			(table_cell "L"
-				(exclude_from_sim no)
-				(at 40.64 166.37 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "4e2db444-0d3c-4e56-9619-790e3fe201a9")
-			)
-			(table_cell "X"
-				(exclude_from_sim no)
-				(at 46.99 166.37 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "d14d049d-77b0-4993-be43-99e8ff2e43a7")
-			)
-			(table_cell "X"
-				(exclude_from_sim no)
-				(at 34.29 168.91 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "b71d87ed-531e-4580-af8d-a31c937c5bc2")
-			)
-			(table_cell "X"
-				(exclude_from_sim no)
-				(at 40.64 168.91 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "4e29f585-78f3-4dc9-afc9-7dd314e0fb5f")
-			)
-			(table_cell "L"
-				(exclude_from_sim no)
-				(at 46.99 168.91 0)
-				(size 6.35 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "f3667293-942f-4d31-b075-8f4171de1603")
-			)
-		)
-	)
-	(table
 		(column_count 1)
 		(border
 			(external yes)
@@ -5247,31 +5247,116 @@
 			)
 		)
 		(column_widths 11.43)
-		(row_heights 3.81 1.27)
+		(row_heights 2.54 2.54 2.54 2.54)
 		(cells
-			(table_cell "OUTPUT Y"
+			(table_cell "H"
 				(exclude_from_sim no)
-				(at 53.34 156.21 0)
-				(size 11.43 5.08)
+				(at 53.34 161.29 0)
+				(size 11.43 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 2)
+				(span 1 1)
 				(fill
-					(type color)
-					(color 132 132 132 1)
+					(type none)
 				)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
 					)
 				)
-				(uuid "36c6f002-78de-47a1-a871-b284c60c9802")
+				(uuid "08587a5d-5dce-43c1-a773-b37b078ba9fc")
 			)
-			(table_cell ""
+			(table_cell "L"
 				(exclude_from_sim no)
-				(at 53.34 160.02 0)
-				(size 11.43 1.27)
+				(at 53.34 163.83 0)
+				(size 11.43 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "96cf6474-2d50-4d0a-8d28-fa7d44b26f44")
+			)
+			(table_cell "L"
+				(exclude_from_sim no)
+				(at 53.34 166.37 0)
+				(size 11.43 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c472fd9f-0181-4786-9ada-de3dcc327a5e")
+			)
+			(table_cell "L"
+				(exclude_from_sim no)
+				(at 53.34 168.91 0)
+				(size 11.43 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "12c407a2-56c7-4c63-b428-63b611337ee5")
+			)
+		)
+	)
+	(table
+		(column_count 2)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 19.05 19.05)
+		(row_heights 3.81 3.81 3.81 3.81 3.81)
+		(cells
+			(table_cell "Switch Position"
+				(exclude_from_sim no)
+				(at 254 186.69 0)
+				(size 38.1 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 2 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4fd24867-afda-43bb-933e-7cbb4d61b79a")
+			)
+			(table_cell "rgb(240, 240, 240)"
+				(exclude_from_sim no)
+				(at 273.05 186.69 0)
+				(size 19.05 3.81)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 0 0)
 				(fill
@@ -5283,7 +5368,143 @@
 					)
 					(justify left top)
 				)
-				(uuid "89a7e7bb-a116-4adb-95bc-e9fd208bbad7")
+				(uuid "c3ed304c-d6db-4c03-8f4b-b77766a6f37f")
+			)
+			(table_cell "S1.1 (SOP1)"
+				(exclude_from_sim no)
+				(at 254 190.5 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "3574f271-1edb-421b-8dd0-43f60e3b4e0e")
+			)
+			(table_cell "SW1 (SOP0)"
+				(exclude_from_sim no)
+				(at 273.05 190.5 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b2b04fe8-a3c5-4ab0-acdb-fb03681d9a54")
+			)
+			(table_cell "OFF"
+				(exclude_from_sim no)
+				(at 254 194.31 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "8cb44e08-3bed-4f94-aeb3-5fbf30a1c4b8")
+			)
+			(table_cell "2-3"
+				(exclude_from_sim no)
+				(at 273.05 194.31 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4ab095eb-9154-4aa9-8f73-d20cf981a408")
+			)
+			(table_cell "OFF"
+				(exclude_from_sim no)
+				(at 254 198.12 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "483be4d8-2354-44cb-98ea-46d70a5c1ff3")
+			)
+			(table_cell "2-1"
+				(exclude_from_sim no)
+				(at 273.05 198.12 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "50a11d69-d00b-42b9-8464-a404c4b9ca69")
+			)
+			(table_cell "ON"
+				(exclude_from_sim no)
+				(at 254 201.93 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "e9486a86-70ec-4866-b4e2-74243be45ad2")
+			)
+			(table_cell "2-1"
+				(exclude_from_sim no)
+				(at 273.05 201.93 0)
+				(size 19.05 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b53df68c-62b2-4a2a-894a-7ffa406cc0ea")
 			)
 		)
 	)
@@ -5566,7 +5787,7 @@
 		)
 	)
 	(table
-		(column_count 2)
+		(column_count 1)
 		(border
 			(external yes)
 			(header yes)
@@ -5583,178 +5804,27 @@
 				(type solid)
 			)
 		)
-		(column_widths 19.05 19.05)
-		(row_heights 3.81 3.81 3.81 3.81 3.81)
+		(column_widths 19.05)
+		(row_heights 2.54)
 		(cells
-			(table_cell "Switch Position"
+			(table_cell "INPUTS"
 				(exclude_from_sim no)
-				(at 254 186.69 0)
-				(size 38.1 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 2 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "4fd24867-afda-43bb-933e-7cbb4d61b79a")
-			)
-			(table_cell "rgb(240, 240, 240)"
-				(exclude_from_sim no)
-				(at 273.05 186.69 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 0 0)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "c3ed304c-d6db-4c03-8f4b-b77766a6f37f")
-			)
-			(table_cell "S1.1 (SOP1)"
-				(exclude_from_sim no)
-				(at 254 190.5 0)
-				(size 19.05 3.81)
+				(at 34.29 156.21 0)
+				(size 19.05 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
-					(type none)
+					(type color)
+					(color 132 132 132 1)
 				)
 				(effects
 					(font
 						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
 					)
-					(justify left top)
 				)
-				(uuid "3574f271-1edb-421b-8dd0-43f60e3b4e0e")
-			)
-			(table_cell "SW1 (SOP0)"
-				(exclude_from_sim no)
-				(at 273.05 190.5 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "b2b04fe8-a3c5-4ab0-acdb-fb03681d9a54")
-			)
-			(table_cell "OFF"
-				(exclude_from_sim no)
-				(at 254 194.31 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "8cb44e08-3bed-4f94-aeb3-5fbf30a1c4b8")
-			)
-			(table_cell "2-3"
-				(exclude_from_sim no)
-				(at 273.05 194.31 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "4ab095eb-9154-4aa9-8f73-d20cf981a408")
-			)
-			(table_cell "OFF"
-				(exclude_from_sim no)
-				(at 254 198.12 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "483be4d8-2354-44cb-98ea-46d70a5c1ff3")
-			)
-			(table_cell "2-1"
-				(exclude_from_sim no)
-				(at 273.05 198.12 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "50a11d69-d00b-42b9-8464-a404c4b9ca69")
-			)
-			(table_cell "ON"
-				(exclude_from_sim no)
-				(at 254 201.93 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "e9486a86-70ec-4866-b4e2-74243be45ad2")
-			)
-			(table_cell "2-1"
-				(exclude_from_sim no)
-				(at 273.05 201.93 0)
-				(size 19.05 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "b53df68c-62b2-4a2a-894a-7ffa406cc0ea")
+				(uuid "c48ea380-a3a8-4911-aa56-2988e5bc9f6a")
 			)
 		)
 	)
@@ -6055,101 +6125,14 @@
 			)
 		)
 		(column_widths 11.43)
-		(row_heights 2.54 2.54 2.54 2.54)
+		(row_heights 3.81 1.27)
 		(cells
-			(table_cell "H"
+			(table_cell "OUTPUT Y"
 				(exclude_from_sim no)
-				(at 53.34 161.29 0)
-				(size 11.43 2.54)
+				(at 53.34 156.21 0)
+				(size 11.43 5.08)
 				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "08587a5d-5dce-43c1-a773-b37b078ba9fc")
-			)
-			(table_cell "L"
-				(exclude_from_sim no)
-				(at 53.34 163.83 0)
-				(size 11.43 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "96cf6474-2d50-4d0a-8d28-fa7d44b26f44")
-			)
-			(table_cell "L"
-				(exclude_from_sim no)
-				(at 53.34 166.37 0)
-				(size 11.43 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "c472fd9f-0181-4786-9ada-de3dcc327a5e")
-			)
-			(table_cell "L"
-				(exclude_from_sim no)
-				(at 53.34 168.91 0)
-				(size 11.43 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-				(uuid "12c407a2-56c7-4c63-b428-63b611337ee5")
-			)
-		)
-	)
-	(table
-		(column_count 1)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 19.05)
-		(row_heights 2.54)
-		(cells
-			(table_cell "INPUTS"
-				(exclude_from_sim no)
-				(at 34.29 156.21 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
+				(span 1 2)
 				(fill
 					(type color)
 					(color 132 132 132 1)
@@ -6161,7 +6144,24 @@
 						(bold yes)
 					)
 				)
-				(uuid "c48ea380-a3a8-4911-aa56-2988e5bc9f6a")
+				(uuid "36c6f002-78de-47a1-a871-b284c60c9802")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 53.34 160.02 0)
+				(size 11.43 1.27)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 0 0)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "89a7e7bb-a116-4adb-95bc-e9fd208bbad7")
 			)
 		)
 	)
@@ -6260,7 +6260,7 @@
 	)
 	(hierarchical_label "FTDI_HOST_INTR_1"
 		(shape bidirectional)
-		(at 271.78 62.23 0)
+		(at 271.78 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6282,7 +6282,7 @@
 	)
 	(hierarchical_label "USER_LED_SW_GPIO_0"
 		(shape bidirectional)
-		(at 271.78 64.77 0)
+		(at 271.78 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6315,7 +6315,7 @@
 	)
 	(hierarchical_label "I2C_SDA"
 		(shape bidirectional)
-		(at 271.78 52.07 0)
+		(at 271.78 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6348,7 +6348,7 @@
 	)
 	(hierarchical_label "FTDI_SPI_CLK"
 		(shape bidirectional)
-		(at 271.78 44.45 0)
+		(at 271.78 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6403,7 +6403,7 @@
 	)
 	(hierarchical_label "FTDI_SPI_MISO"
 		(shape bidirectional)
-		(at 271.78 57.15 0)
+		(at 271.78 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6436,7 +6436,7 @@
 	)
 	(hierarchical_label "REG_MODE_SELECT"
 		(shape bidirectional)
-		(at 271.78 59.69 0)
+		(at 271.78 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6458,7 +6458,7 @@
 	)
 	(hierarchical_label "I2C_SCL"
 		(shape bidirectional)
-		(at 271.78 46.99 0)
+		(at 271.78 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6469,7 +6469,7 @@
 	)
 	(hierarchical_label "FTDI_SPI_CS"
 		(shape bidirectional)
-		(at 271.78 49.53 0)
+		(at 271.78 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6521,7 +6521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d9ca273-1921-4d19-8fe1-c9da665dc26f")
-		(property "Reference" "#PWR0417"
+		(property "Reference" "#PWR0625"
 			(at 226.06 180.34 0)
 			(effects
 				(font
@@ -6571,7 +6571,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0417")
+					(reference "#PWR0625")
 					(unit 1)
 				)
 			)
@@ -6587,7 +6587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dba176d-be44-40f7-a6d1-76b0824bca8d")
-		(property "Reference" "#PWR0409"
+		(property "Reference" "#PWR0607"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -6637,7 +6637,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0409")
+					(reference "#PWR0607")
 					(unit 1)
 				)
 			)
@@ -6653,7 +6653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e95d198-b5cb-4084-a0bd-b22c681aa452")
-		(property "Reference" "#PWR0408"
+		(property "Reference" "#PWR0603"
 			(at 179.07 33.02 0)
 			(effects
 				(font
@@ -6703,7 +6703,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0408")
+					(reference "#PWR0603")
 					(unit 1)
 				)
 			)
@@ -6719,7 +6719,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "113cb761-6267-4bb2-9d57-2c878f7e7af3")
-		(property "Reference" "R276"
+		(property "Reference" "R610"
 			(at 104.14 92.7099 0)
 			(effects
 				(font
@@ -6737,7 +6737,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 103.378 93.98 90)
 			(effects
 				(font
@@ -6773,7 +6773,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R276")
+					(reference "R610")
 					(unit 1)
 				)
 			)
@@ -6789,7 +6789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24b34ae4-e60f-4d3e-8a08-448189119dfa")
-		(property "Reference" "R306"
+		(property "Reference" "R622"
 			(at 219.71 156.21 90)
 			(effects
 				(font
@@ -6805,7 +6805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 219.71 164.338 90)
 			(effects
 				(font
@@ -6841,7 +6841,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R306")
+					(reference "R622")
 					(unit 1)
 				)
 			)
@@ -6857,7 +6857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2755934f-9372-4396-90d2-b7a28b7254a8")
-		(property "Reference" "#PWR0367"
+		(property "Reference" "#PWR0621"
 			(at 93.98 144.78 0)
 			(effects
 				(font
@@ -6907,7 +6907,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0367")
+					(reference "#PWR0621")
 					(unit 1)
 				)
 			)
@@ -6923,7 +6923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d95d406-3066-4081-aea6-6fe0443dd791")
-		(property "Reference" "#PWR0371"
+		(property "Reference" "#PWR0612"
 			(at 66.04 92.71 0)
 			(effects
 				(font
@@ -6973,7 +6973,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0371")
+					(reference "#PWR0612")
 					(unit 1)
 				)
 			)
@@ -6989,7 +6989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31fb7936-c680-4f2c-8e2f-8f1fe2b3a0e6")
-		(property "Reference" "R311"
+		(property "Reference" "R621"
 			(at 294.64 158.7499 0)
 			(effects
 				(font
@@ -7007,7 +7007,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 293.878 160.02 90)
 			(effects
 				(font
@@ -7043,7 +7043,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R311")
+					(reference "R621")
 					(unit 1)
 				)
 			)
@@ -7058,7 +7058,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "332296c8-c265-4340-9e89-24b7aa7d74d2")
-		(property "Reference" "SW501"
+		(property "Reference" "SW602"
 			(at 114.3 92.71 0)
 			(effects
 				(font
@@ -7074,7 +7074,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS647_Sx70"
 			(at 114.3 101.6 0)
 			(effects
 				(font
@@ -7116,7 +7116,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "SW501")
+					(reference "SW602")
 					(unit 1)
 				)
 			)
@@ -7132,7 +7132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "367c3eaf-ade5-4c2d-a62f-351b1ee92d12")
-		(property "Reference" "SW701"
+		(property "Reference" "SW603"
 			(at 218.44 105.41 0)
 			(effects
 				(font
@@ -7148,7 +7148,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
 			(at 218.44 114.3 0)
 			(effects
 				(font
@@ -7187,7 +7187,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "SW701")
+					(reference "SW603")
 					(unit 1)
 				)
 			)
@@ -7203,7 +7203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36b94619-0a6e-488c-833b-adbc26eba463")
-		(property "Reference" "#PWR0369"
+		(property "Reference" "#PWR0613"
 			(at 101.6 92.71 0)
 			(effects
 				(font
@@ -7253,7 +7253,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0369")
+					(reference "#PWR0613")
 					(unit 1)
 				)
 			)
@@ -7269,7 +7269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bebba93-ef36-4168-8f03-f8ff017142bd")
-		(property "Reference" "#PWR0366"
+		(property "Reference" "#PWR0620"
 			(at 82.55 135.89 0)
 			(effects
 				(font
@@ -7319,7 +7319,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0366")
+					(reference "#PWR0620")
 					(unit 1)
 				)
 			)
@@ -7335,7 +7335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cfba7ee-2b9a-4537-b166-2eb515b279c2")
-		(property "Reference" "MOSFET502"
+		(property "Reference" "MOSFET602"
 			(at 142.24 53.9876 0)
 			(effects
 				(font
@@ -7353,7 +7353,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SSM3K35AMFV:VESM_TOS-L"
 			(at 137.16 54.61 0)
 			(effects
 				(font
@@ -7502,7 +7502,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "MOSFET502")
+					(reference "MOSFET602")
 					(unit 1)
 				)
 			)
@@ -7518,7 +7518,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3d1dc129-a057-4bd7-b3c9-ade5d04a34f9")
-		(property "Reference" "R295"
+		(property "Reference" "R604"
 			(at 181.61 43.1799 0)
 			(effects
 				(font
@@ -7536,7 +7536,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 177.292 44.45 90)
 			(effects
 				(font
@@ -7572,7 +7572,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R295")
+					(reference "R604")
 					(unit 1)
 				)
 			)
@@ -7588,7 +7588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fc19cdd-23ff-4aa0-a3cf-c8cdc3eb66b9")
-		(property "Reference" "#PWR0403"
+		(property "Reference" "#PWR0605"
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -7638,7 +7638,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0403")
+					(reference "#PWR0605")
 					(unit 1)
 				)
 			)
@@ -7654,7 +7654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4295fa58-2a30-49e2-9000-f7f9035d3b3c")
-		(property "Reference" "R304"
+		(property "Reference" "R614"
 			(at 237.49 105.41 90)
 			(effects
 				(font
@@ -7670,7 +7670,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 237.49 113.538 90)
 			(effects
 				(font
@@ -7706,7 +7706,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R304")
+					(reference "R614")
 					(unit 1)
 				)
 			)
@@ -7722,7 +7722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "440b43bb-93bd-41f7-bdee-404cf6507a1a")
-		(property "Reference" "R307"
+		(property "Reference" "R624"
 			(at 228.6 167.6399 0)
 			(effects
 				(font
@@ -7740,7 +7740,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 227.838 168.91 90)
 			(effects
 				(font
@@ -7776,7 +7776,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R307")
+					(reference "R624")
 					(unit 1)
 				)
 			)
@@ -7792,7 +7792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4655a3f8-231f-4c8c-bef2-657c889e6e13")
-		(property "Reference" "R282"
+		(property "Reference" "R603"
 			(at 142.24 34.2899 0)
 			(effects
 				(font
@@ -7810,7 +7810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 141.478 35.56 90)
 			(effects
 				(font
@@ -7846,7 +7846,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R282")
+					(reference "R603")
 					(unit 1)
 				)
 			)
@@ -7862,7 +7862,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4db96ad7-1c28-4ca8-9339-a464a8d975e2")
-		(property "Reference" "TP215"
+		(property "Reference" "TP601"
 			(at 182.88 151.1299 90)
 			(effects
 				(font
@@ -7880,7 +7880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 187.96 157.48 0)
 			(effects
 				(font
@@ -7913,7 +7913,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "TP215")
+					(reference "TP601")
 					(unit 1)
 				)
 			)
@@ -7929,7 +7929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5531385e-aff3-4397-8281-047e8e83463a")
-		(property "Reference" "#PWR0405"
+		(property "Reference" "#PWR0611"
 			(at 254 80.01 0)
 			(effects
 				(font
@@ -7979,7 +7979,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0405")
+					(reference "#PWR0611")
 					(unit 1)
 				)
 			)
@@ -7995,7 +7995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62a798d5-ae38-4d7c-98fd-453184ef5c17")
-		(property "Reference" "D503"
+		(property "Reference" "D602"
 			(at 143.51 44.7674 90)
 			(effects
 				(font
@@ -8013,7 +8013,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 139.7 44.45 0)
 			(effects
 				(font
@@ -8058,7 +8058,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "D503")
+					(reference "D602")
 					(unit 1)
 				)
 			)
@@ -8074,7 +8074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a4590ba-b183-405b-b931-907a10cb06dd")
-		(property "Reference" "#PWR0370"
+		(property "Reference" "#PWR0616"
 			(at 125.73 115.57 0)
 			(effects
 				(font
@@ -8124,7 +8124,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0370")
+					(reference "#PWR0616")
 					(unit 1)
 				)
 			)
@@ -8140,7 +8140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b74cce9-2792-4b41-a12b-4c087f57dd1f")
-		(property "Reference" "#PWR0375"
+		(property "Reference" "#PWR0601"
 			(at 66.04 33.02 0)
 			(effects
 				(font
@@ -8190,7 +8190,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0375")
+					(reference "#PWR0601")
 					(unit 1)
 				)
 			)
@@ -8206,7 +8206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d655a18-fd42-4378-bb2c-f8940c0c0dbe")
-		(property "Reference" "U705"
+		(property "Reference" "U601"
 			(at 255.9686 36.83 0)
 			(effects
 				(font
@@ -8423,7 +8423,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "U705")
+					(reference "U601")
 					(unit 1)
 				)
 			)
@@ -8439,7 +8439,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ddf00d1-ee34-480d-9e15-ac054f69ac69")
-		(property "Reference" "#PWR0372"
+		(property "Reference" "#PWR0615"
 			(at 66.04 115.57 0)
 			(effects
 				(font
@@ -8489,7 +8489,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0372")
+					(reference "#PWR0615")
 					(unit 1)
 				)
 			)
@@ -8505,7 +8505,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "745f2840-60df-4b36-86f5-e9c2da043539")
-		(property "Reference" "R277"
+		(property "Reference" "R609"
 			(at 68.58 92.7099 0)
 			(effects
 				(font
@@ -8523,7 +8523,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 67.818 93.98 90)
 			(effects
 				(font
@@ -8559,7 +8559,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R277")
+					(reference "R609")
 					(unit 1)
 				)
 			)
@@ -8575,7 +8575,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bb71996-6b50-4789-a32e-93c74da8b5db")
-		(property "Reference" "#PWR0373"
+		(property "Reference" "#PWR0614"
 			(at 46.99 113.03 0)
 			(effects
 				(font
@@ -8625,7 +8625,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0373")
+					(reference "#PWR0614")
 					(unit 1)
 				)
 			)
@@ -8640,7 +8640,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7bcc4194-ec0b-48ba-9d16-44c4df8898ca")
-		(property "Reference" "SW502"
+		(property "Reference" "SW601"
 			(at 54.61 92.71 0)
 			(effects
 				(font
@@ -8656,7 +8656,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS647_Sx70"
 			(at 54.61 101.6 0)
 			(effects
 				(font
@@ -8698,7 +8698,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "SW502")
+					(reference "SW601")
 					(unit 1)
 				)
 			)
@@ -8714,7 +8714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84a0d72f-fb97-4484-80d2-636ab9ed4cdd")
-		(property "Reference" "#PWR0368"
+		(property "Reference" "#PWR0623"
 			(at 82.55 172.72 0)
 			(effects
 				(font
@@ -8764,7 +8764,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0368")
+					(reference "#PWR0623")
 					(unit 1)
 				)
 			)
@@ -8780,7 +8780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87527e6a-209b-4ffa-9d57-e27cc5ddf3c2")
-		(property "Reference" "R305"
+		(property "Reference" "R618"
 			(at 205.74 146.05 90)
 			(effects
 				(font
@@ -8796,7 +8796,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 205.74 154.178 90)
 			(effects
 				(font
@@ -8832,7 +8832,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R305")
+					(reference "R618")
 					(unit 1)
 				)
 			)
@@ -8848,7 +8848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "883170e7-083f-40d0-930e-3a1da73e8cfd")
-		(property "Reference" "#PWR0365"
+		(property "Reference" "#PWR0619"
 			(at 68.58 135.89 0)
 			(effects
 				(font
@@ -8898,7 +8898,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0365")
+					(reference "#PWR0619")
 					(unit 1)
 				)
 			)
@@ -8914,7 +8914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89fb9c05-f029-41dd-8cd3-38f7e8a946ed")
-		(property "Reference" "#PWR0406"
+		(property "Reference" "#PWR0610"
 			(at 227.33 69.85 0)
 			(effects
 				(font
@@ -8964,7 +8964,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0406")
+					(reference "#PWR0610")
 					(unit 1)
 				)
 			)
@@ -8980,7 +8980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ab8a24f-07b4-4fda-b1b2-fb717e73dd82")
-		(property "Reference" "R281"
+		(property "Reference" "R606"
 			(at 52.07 53.34 90)
 			(effects
 				(font
@@ -8996,7 +8996,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 52.07 57.912 90)
 			(effects
 				(font
@@ -9032,7 +9032,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R281")
+					(reference "R606")
 					(unit 1)
 				)
 			)
@@ -9048,7 +9048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e43e50c-1cb2-4969-a798-805bd52b2098")
-		(property "Reference" "R272"
+		(property "Reference" "R617"
 			(at 71.12 137.1599 0)
 			(effects
 				(font
@@ -9066,7 +9066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 70.358 138.43 90)
 			(effects
 				(font
@@ -9102,7 +9102,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R272")
+					(reference "R617")
 					(unit 1)
 				)
 			)
@@ -9118,7 +9118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f9853c7-dbfd-46e2-982b-2473d6441d95")
-		(property "Reference" "R275"
+		(property "Reference" "R613"
 			(at 128.27 102.8699 0)
 			(effects
 				(font
@@ -9136,7 +9136,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 127.508 104.14 90)
 			(effects
 				(font
@@ -9172,7 +9172,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R275")
+					(reference "R613")
 					(unit 1)
 				)
 			)
@@ -9188,7 +9188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92b5b68a-9651-4f27-9063-013bbd611931")
-		(property "Reference" "MOSFET501"
+		(property "Reference" "MOSFET601"
 			(at 68.58 53.9876 0)
 			(effects
 				(font
@@ -9206,7 +9206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SSM3K35AMFV:VESM_TOS-L"
 			(at 63.5 54.61 0)
 			(effects
 				(font
@@ -9355,7 +9355,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "MOSFET501")
+					(reference "MOSFET601")
 					(unit 1)
 				)
 			)
@@ -9371,7 +9371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94da8368-2b2c-40d8-9012-337305261b00")
-		(property "Reference" "C287"
+		(property "Reference" "C602"
 			(at 69.85 102.8699 0)
 			(effects
 				(font
@@ -9389,7 +9389,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 65.0748 100.33 0)
 			(effects
 				(font
@@ -9425,7 +9425,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "C287")
+					(reference "C602")
 					(unit 1)
 				)
 			)
@@ -9440,7 +9440,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a4f9350-cf29-475a-abbf-3a1c8e02c475")
-		(property "Reference" "#PWR0404"
+		(property "Reference" "#PWR0604"
 			(at 254 33.02 0)
 			(effects
 				(font
@@ -9490,7 +9490,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0404")
+					(reference "#PWR0604")
 					(unit 1)
 				)
 			)
@@ -9506,7 +9506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a26aca26-2142-47e0-8a9e-18fcca148183")
-		(property "Reference" "D502"
+		(property "Reference" "D601"
 			(at 69.85 44.7674 90)
 			(effects
 				(font
@@ -9524,7 +9524,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 66.04 44.45 0)
 			(effects
 				(font
@@ -9569,7 +9569,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "D502")
+					(reference "D601")
 					(unit 1)
 				)
 			)
@@ -9585,7 +9585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa7e8060-5fe3-488f-a5e3-b90601085e3e")
-		(property "Reference" "R273"
+		(property "Reference" "R620"
 			(at 71.12 158.7499 0)
 			(effects
 				(font
@@ -9603,7 +9603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 70.358 160.02 90)
 			(effects
 				(font
@@ -9639,7 +9639,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R273")
+					(reference "R620")
 					(unit 1)
 				)
 			)
@@ -9655,7 +9655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2289abc-7e49-44f1-9a1d-bf37ad4ff02f")
-		(property "Reference" "R301"
+		(property "Reference" "R612"
 			(at 218.44 95.25 90)
 			(effects
 				(font
@@ -9671,7 +9671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.44 103.378 90)
 			(effects
 				(font
@@ -9707,7 +9707,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R301")
+					(reference "R612")
 					(unit 1)
 				)
 			)
@@ -9723,7 +9723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4e3409a-4765-4600-b5bf-d6a32ecc06fa")
-		(property "Reference" "#PWR0415"
+		(property "Reference" "#PWR0618"
 			(at 233.68 133.35 0)
 			(effects
 				(font
@@ -9773,7 +9773,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0415")
+					(reference "#PWR0618")
 					(unit 1)
 				)
 			)
@@ -9789,7 +9789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba484578-0c79-4ced-b613-f090a7bb6f3f")
-		(property "Reference" "R283"
+		(property "Reference" "R607"
 			(at 125.73 53.34 90)
 			(effects
 				(font
@@ -9805,7 +9805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 125.73 57.912 90)
 			(effects
 				(font
@@ -9841,7 +9841,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R283")
+					(reference "R607")
 					(unit 1)
 				)
 			)
@@ -9856,7 +9856,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf666375-dd0c-45f9-8d54-8515f65fa3cb")
-		(property "Reference" "#PWR0418"
+		(property "Reference" "#PWR0622"
 			(at 288.29 156.21 0)
 			(effects
 				(font
@@ -9906,7 +9906,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0418")
+					(reference "#PWR0622")
 					(unit 1)
 				)
 			)
@@ -9922,7 +9922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c05fc4a8-f40b-4bcb-a03d-8d7274713cb6")
-		(property "Reference" "#PWR0419"
+		(property "Reference" "#PWR0624"
 			(at 292.1 177.8 0)
 			(effects
 				(font
@@ -9972,7 +9972,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0419")
+					(reference "#PWR0624")
 					(unit 1)
 				)
 			)
@@ -9988,7 +9988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2e44c1d-ac41-4fb0-9a59-20d61f05c753")
-		(property "Reference" "#PWR0378"
+		(property "Reference" "#PWR0609"
 			(at 139.7 69.85 0)
 			(effects
 				(font
@@ -10038,7 +10038,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0378")
+					(reference "#PWR0609")
 					(unit 1)
 				)
 			)
@@ -10054,7 +10054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c36f545f-4b86-4712-9076-92c4e12381f4")
-		(property "Reference" "R308"
+		(property "Reference" "R623"
 			(at 232.41 156.21 90)
 			(effects
 				(font
@@ -10070,7 +10070,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 164.338 90)
 			(effects
 				(font
@@ -10106,7 +10106,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R308")
+					(reference "R623")
 					(unit 1)
 				)
 			)
@@ -10122,7 +10122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3e3cd5d-098e-4afd-b9c8-a61c125ab4f5")
-		(property "Reference" "R294"
+		(property "Reference" "R601"
 			(at 181.61 33.0199 0)
 			(effects
 				(font
@@ -10140,7 +10140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 177.292 34.29 90)
 			(effects
 				(font
@@ -10176,7 +10176,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R294")
+					(reference "R601")
 					(unit 1)
 				)
 			)
@@ -10192,7 +10192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccf138ff-f8a0-4bea-abe7-447d966806c2")
-		(property "Reference" "R303"
+		(property "Reference" "R616"
 			(at 236.22 120.6499 0)
 			(effects
 				(font
@@ -10210,7 +10210,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 235.458 121.92 90)
 			(effects
 				(font
@@ -10246,7 +10246,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R303")
+					(reference "R616")
 					(unit 1)
 				)
 			)
@@ -10262,7 +10262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d15f3581-52c6-4e28-90e1-e951e960cd13")
-		(property "Reference" "#PWR0407"
+		(property "Reference" "#PWR0606"
 			(at 201.93 50.8 0)
 			(effects
 				(font
@@ -10312,7 +10312,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0407")
+					(reference "#PWR0606")
 					(unit 1)
 				)
 			)
@@ -10327,7 +10327,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2bae58c-d3b1-41c3-aefd-432efe7a530a")
-		(property "Reference" "#PWR0416"
+		(property "Reference" "#PWR0617"
 			(at 246.38 114.3 0)
 			(effects
 				(font
@@ -10377,7 +10377,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0416")
+					(reference "#PWR0617")
 					(unit 1)
 				)
 			)
@@ -10393,7 +10393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d87e05b1-79a8-411c-8c32-8a1bc328b7e5")
-		(property "Reference" "R274"
+		(property "Reference" "R611"
 			(at 132.08 92.71 90)
 			(effects
 				(font
@@ -10409,7 +10409,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.08 97.282 90)
 			(effects
 				(font
@@ -10445,7 +10445,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R274")
+					(reference "R611")
 					(unit 1)
 				)
 			)
@@ -10461,7 +10461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4738dca-1388-4890-a847-7662651aa710")
-		(property "Reference" "R300"
+		(property "Reference" "R615"
 			(at 204.47 107.95 90)
 			(effects
 				(font
@@ -10477,7 +10477,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 204.47 116.078 90)
 			(effects
 				(font
@@ -10513,7 +10513,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R300")
+					(reference "R615")
 					(unit 1)
 				)
 			)
@@ -10529,7 +10529,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e99e2ab2-721d-4628-af51-2f4dae147b25")
-		(property "Reference" "SW703"
+		(property "Reference" "SW604"
 			(at 279.4 154.94 0)
 			(effects
 				(font
@@ -10545,7 +10545,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile"
 			(at 279.4 167.64 0)
 			(effects
 				(font
@@ -10599,7 +10599,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "SW703")
+					(reference "SW604")
 					(unit 1)
 				)
 			)
@@ -10615,7 +10615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecee8f6f-6f6d-4287-ba28-ba84a960af87")
-		(property "Reference" "R309"
+		(property "Reference" "R619"
 			(at 232.41 146.05 90)
 			(effects
 				(font
@@ -10631,7 +10631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 154.178 90)
 			(effects
 				(font
@@ -10667,7 +10667,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R309")
+					(reference "R619")
 					(unit 1)
 				)
 			)
@@ -10683,7 +10683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efaf5cb8-bec1-4169-b988-d934b41dce65")
-		(property "Reference" "R280"
+		(property "Reference" "R602"
 			(at 68.58 34.2899 0)
 			(effects
 				(font
@@ -10701,7 +10701,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 67.818 35.56 90)
 			(effects
 				(font
@@ -10737,7 +10737,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R280")
+					(reference "R602")
 					(unit 1)
 				)
 			)
@@ -10753,7 +10753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0d48c2c-0bbe-4863-a54a-e612eae3e308")
-		(property "Reference" "#PWR0376"
+		(property "Reference" "#PWR0608"
 			(at 66.04 69.85 0)
 			(effects
 				(font
@@ -10803,7 +10803,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0376")
+					(reference "#PWR0608")
 					(unit 1)
 				)
 			)
@@ -10819,7 +10819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f677164c-f796-4bef-a8df-eee3836c37cf")
-		(property "Reference" "#PWR0377"
+		(property "Reference" "#PWR0602"
 			(at 139.7 33.02 0)
 			(effects
 				(font
@@ -10869,7 +10869,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "#PWR0377")
+					(reference "#PWR0602")
 					(unit 1)
 				)
 			)
@@ -10885,7 +10885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f883ac60-2a2a-4994-96c2-24f674339c8f")
-		(property "Reference" "R293"
+		(property "Reference" "R605"
 			(at 204.47 50.7999 0)
 			(effects
 				(font
@@ -10903,7 +10903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 200.152 52.07 90)
 			(effects
 				(font
@@ -10939,7 +10939,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R293")
+					(reference "R605")
 					(unit 1)
 				)
 			)
@@ -10955,7 +10955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe1607dc-3559-4776-a141-6c9d2070e0ff")
-		(property "Reference" "R292"
+		(property "Reference" "R608"
 			(at 232.41 55.88 90)
 			(effects
 				(font
@@ -10971,7 +10971,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 232.41 64.008 90)
 			(effects
 				(font
@@ -11007,7 +11007,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "R292")
+					(reference "R608")
 					(unit 1)
 				)
 			)
@@ -11022,7 +11022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ff3070d3-1529-494a-b650-46d920cfdeeb")
-		(property "Reference" "C295"
+		(property "Reference" "C601"
 			(at 247.65 26.67 90)
 			(effects
 				(font
@@ -11038,7 +11038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 251.46 33.3248 0)
 			(effects
 				(font
@@ -11074,7 +11074,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "C295")
+					(reference "C601")
 					(unit 1)
 				)
 			)
@@ -11090,7 +11090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff8e40ec-10f5-420a-b2a2-39d82050e504")
-		(property "Reference" "U501"
+		(property "Reference" "U602"
 			(at 99.06 143.7892 0)
 			(effects
 				(font
@@ -11245,7 +11245,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "U501")
+					(reference "U602")
 					(unit 1)
 				)
 			)
@@ -11261,7 +11261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffd42b11-e8fa-4a62-8fef-a5daed29d20d")
-		(property "Reference" "C286"
+		(property "Reference" "C603"
 			(at 88.9 129.54 90)
 			(effects
 				(font
@@ -11277,7 +11277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 92.71 136.1948 0)
 			(effects
 				(font
@@ -11313,7 +11313,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/9f94e9cc-adeb-492b-8499-6acdeac38b77"
-					(reference "C286")
+					(reference "C603")
 					(unit 1)
 				)
 			)
