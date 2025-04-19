@@ -4849,6 +4849,48 @@
 		)
 	)
 	(table
+		(column_count 1)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 19.05)
+		(row_heights 2.54)
+		(cells
+			(table_cell "INPUTS"
+				(exclude_from_sim no)
+				(at 34.29 156.21 0)
+				(size 19.05 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type color)
+					(color 132 132 132 1)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "c48ea380-a3a8-4911-aa56-2988e5bc9f6a")
+			)
+		)
+	)
+	(table
 		(column_count 3)
 		(border
 			(external yes)
@@ -5247,6 +5289,65 @@
 			)
 		)
 		(column_widths 11.43)
+		(row_heights 3.81 1.27)
+		(cells
+			(table_cell "OUTPUT Y"
+				(exclude_from_sim no)
+				(at 53.34 156.21 0)
+				(size 11.43 5.08)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 2)
+				(fill
+					(type color)
+					(color 132 132 132 1)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+				(uuid "36c6f002-78de-47a1-a871-b284c60c9802")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 53.34 160.02 0)
+				(size 11.43 1.27)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 0 0)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "89a7e7bb-a116-4adb-95bc-e9fd208bbad7")
+			)
+		)
+	)
+	(table
+		(column_count 1)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 11.43)
 		(row_heights 2.54 2.54 2.54 2.54)
 		(cells
 			(table_cell "H"
@@ -5312,6 +5413,284 @@
 					)
 				)
 				(uuid "12c407a2-56c7-4c63-b428-63b611337ee5")
+			)
+		)
+	)
+	(table
+		(column_count 3)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 13.97 50.8 13.97)
+		(row_heights 3.81 3.81 3.81 3.81 3.81)
+		(cells
+			(table_cell "SOP Configuration"
+				(exclude_from_sim no)
+				(at 175.26 186.69 0)
+				(size 78.74 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 3 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a69fea8a-1483-4aa7-b035-88b124693c8a")
+			)
+			(table_cell "rgb(240, 240, 240)"
+				(exclude_from_sim no)
+				(at 189.23 186.69 0)
+				(size 50.8 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 0 0)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "242d4b1b-6d25-4130-ae2b-c877089a8015")
+			)
+			(table_cell "rgb(240, 240, 240)"
+				(exclude_from_sim no)
+				(at 240.03 186.69 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 0 0)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "d9d9e7e8-b7e4-416c-92f8-245c81b0cde2")
+			)
+			(table_cell "SOP Mode"
+				(exclude_from_sim no)
+				(at 175.26 190.5 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "67c5a011-0da0-4227-8235-29c970d11623")
+			)
+			(table_cell "PMIC_CLK_OUT, TDO"
+				(exclude_from_sim no)
+				(at 189.23 190.5 0)
+				(size 50.8 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "d04a8531-1ffd-424f-8d84-d2b8445be4aa")
+			)
+			(table_cell "Combination"
+				(exclude_from_sim no)
+				(at 240.03 190.5 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a41a0e50-d0eb-4938-bcd9-99f4a83723a4")
+			)
+			(table_cell "SOP_MODE1"
+				(exclude_from_sim no)
+				(at 175.26 194.31 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "f091d2d5-6f55-4f08-9391-82bbb025f8cd")
+			)
+			(table_cell "Device management mode / QSPI Flashing mode"
+				(exclude_from_sim no)
+				(at 189.23 194.31 0)
+				(size 50.8 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a79cf68e-e1ab-460e-b4ed-d12eb79f664b")
+			)
+			(table_cell "0  0"
+				(exclude_from_sim no)
+				(at 240.03 194.31 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "f39664f8-f589-4a36-93a0-1456de6a10e6")
+			)
+			(table_cell "SOP_MODE2"
+				(exclude_from_sim no)
+				(at 175.26 198.12 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "cbd5a8b4-d18e-4213-abd3-ebda73091bf1")
+			)
+			(table_cell "Application mode / Functional mode"
+				(exclude_from_sim no)
+				(at 189.23 198.12 0)
+				(size 50.8 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a956fbeb-f2b5-4577-a9f5-f82b82314c97")
+			)
+			(table_cell "0  1"
+				(exclude_from_sim no)
+				(at 240.03 198.12 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "6cfb28b5-ad5c-472c-bbe1-3bf8c956b18a")
+			)
+			(table_cell "SOP_MODE3"
+				(exclude_from_sim no)
+				(at 175.26 201.93 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "49fdb8db-9921-4c8b-860e-2d0665cc8df0")
+			)
+			(table_cell "Debug mode / mmWave studio connectivity mode"
+				(exclude_from_sim no)
+				(at 189.23 201.93 0)
+				(size 50.8 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "7eeb1612-068c-42b0-8704-be6405493d81")
+			)
+			(table_cell "1  1"
+				(exclude_from_sim no)
+				(at 240.03 201.93 0)
+				(size 13.97 3.81)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "3a602fbc-1cf6-4b90-9e7b-188613161ceb")
 			)
 		)
 	)
@@ -5783,385 +6162,6 @@
 					(justify left top)
 				)
 				(uuid "3a602fbc-1cf6-4b90-9e7b-188613161ceb")
-			)
-		)
-	)
-	(table
-		(column_count 1)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 19.05)
-		(row_heights 2.54)
-		(cells
-			(table_cell "INPUTS"
-				(exclude_from_sim no)
-				(at 34.29 156.21 0)
-				(size 19.05 2.54)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type color)
-					(color 132 132 132 1)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "c48ea380-a3a8-4911-aa56-2988e5bc9f6a")
-			)
-		)
-	)
-	(table
-		(column_count 3)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 13.97 50.8 13.97)
-		(row_heights 3.81 3.81 3.81 3.81 3.81)
-		(cells
-			(table_cell "SOP Configuration"
-				(exclude_from_sim no)
-				(at 175.26 186.69 0)
-				(size 78.74 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 3 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "a69fea8a-1483-4aa7-b035-88b124693c8a")
-			)
-			(table_cell "rgb(240, 240, 240)"
-				(exclude_from_sim no)
-				(at 189.23 186.69 0)
-				(size 50.8 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 0 0)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "242d4b1b-6d25-4130-ae2b-c877089a8015")
-			)
-			(table_cell "rgb(240, 240, 240)"
-				(exclude_from_sim no)
-				(at 240.03 186.69 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 0 0)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "d9d9e7e8-b7e4-416c-92f8-245c81b0cde2")
-			)
-			(table_cell "SOP Mode"
-				(exclude_from_sim no)
-				(at 175.26 190.5 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "67c5a011-0da0-4227-8235-29c970d11623")
-			)
-			(table_cell "PMIC_CLK_OUT, TDO"
-				(exclude_from_sim no)
-				(at 189.23 190.5 0)
-				(size 50.8 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "d04a8531-1ffd-424f-8d84-d2b8445be4aa")
-			)
-			(table_cell "Combination"
-				(exclude_from_sim no)
-				(at 240.03 190.5 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "a41a0e50-d0eb-4938-bcd9-99f4a83723a4")
-			)
-			(table_cell "SOP_MODE1"
-				(exclude_from_sim no)
-				(at 175.26 194.31 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "f091d2d5-6f55-4f08-9391-82bbb025f8cd")
-			)
-			(table_cell "Device management mode / QSPI Flashing mode"
-				(exclude_from_sim no)
-				(at 189.23 194.31 0)
-				(size 50.8 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "a79cf68e-e1ab-460e-b4ed-d12eb79f664b")
-			)
-			(table_cell "0  0"
-				(exclude_from_sim no)
-				(at 240.03 194.31 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "f39664f8-f589-4a36-93a0-1456de6a10e6")
-			)
-			(table_cell "SOP_MODE2"
-				(exclude_from_sim no)
-				(at 175.26 198.12 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "cbd5a8b4-d18e-4213-abd3-ebda73091bf1")
-			)
-			(table_cell "Application mode / Functional mode"
-				(exclude_from_sim no)
-				(at 189.23 198.12 0)
-				(size 50.8 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "a956fbeb-f2b5-4577-a9f5-f82b82314c97")
-			)
-			(table_cell "0  1"
-				(exclude_from_sim no)
-				(at 240.03 198.12 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "6cfb28b5-ad5c-472c-bbe1-3bf8c956b18a")
-			)
-			(table_cell "SOP_MODE3"
-				(exclude_from_sim no)
-				(at 175.26 201.93 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "49fdb8db-9921-4c8b-860e-2d0665cc8df0")
-			)
-			(table_cell "Debug mode / mmWave studio connectivity mode"
-				(exclude_from_sim no)
-				(at 189.23 201.93 0)
-				(size 50.8 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "7eeb1612-068c-42b0-8704-be6405493d81")
-			)
-			(table_cell "1  1"
-				(exclude_from_sim no)
-				(at 240.03 201.93 0)
-				(size 13.97 3.81)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "3a602fbc-1cf6-4b90-9e7b-188613161ceb")
-			)
-		)
-	)
-	(table
-		(column_count 1)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 11.43)
-		(row_heights 3.81 1.27)
-		(cells
-			(table_cell "OUTPUT Y"
-				(exclude_from_sim no)
-				(at 53.34 156.21 0)
-				(size 11.43 5.08)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 2)
-				(fill
-					(type color)
-					(color 132 132 132 1)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.254)
-						(bold yes)
-					)
-				)
-				(uuid "36c6f002-78de-47a1-a871-b284c60c9802")
-			)
-			(table_cell ""
-				(exclude_from_sim no)
-				(at 53.34 160.02 0)
-				(size 11.43 1.27)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 0 0)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "89a7e7bb-a116-4adb-95bc-e9fd208bbad7")
 			)
 		)
 	)
@@ -8996,7 +8996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 52.07 57.912 90)
 			(effects
 				(font
@@ -9066,7 +9066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 70.358 138.43 90)
 			(effects
 				(font
@@ -9603,7 +9603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 70.358 160.02 90)
 			(effects
 				(font
@@ -9805,7 +9805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 125.73 57.912 90)
 			(effects
 				(font

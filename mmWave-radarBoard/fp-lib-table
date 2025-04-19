@@ -11,4 +11,5 @@
   (lib (name "MX25R1635FZUIH0")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/MX25R1635FZUIH0/footprints.pretty")(options "")(descr ""))
   (lib (name "TS3A5018RSVR")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TS3A5018RSVR/footprints.pretty")(options "")(descr ""))
   (lib (name "TS3A44159PWR")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TS3A44159PWR/footprints.pretty")(options "")(descr ""))
+  (lib (name "FT4232HQ")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/FT4232HQ/footprints.pretty")(options "")(descr ""))
 )

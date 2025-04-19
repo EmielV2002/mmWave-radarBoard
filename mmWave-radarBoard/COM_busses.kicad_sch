@@ -1705,17 +1705,17 @@
 						)
 					)
 				)
-				(pin output line
+				(pin input line
 					(at 0 -2.54 0)
 					(length 5.08)
-					(name "ROUT"
+					(name "RIN"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "9"
+					(number "8"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -1831,17 +1831,17 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 30.48 -2.54 180)
 					(length 5.08)
-					(name "RIN"
+					(name "ROUT"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "8"
+					(number "9"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -3661,6 +3661,26 @@
 		)
 		(uuid "50e6c7c1-74e5-4754-916c-c7d40920547f")
 	)
+	(label "TX"
+		(at 124.46 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7fe1caf9-dddd-42b4-889f-3b68232ad2a8")
+	)
+	(label "RX"
+		(at 124.46 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2f5216a-25ec-48d4-8a77-eb9267211b86")
+	)
 	(label "CAN_L"
 		(at 129.54 54.61 0)
 		(effects
@@ -3670,6 +3690,16 @@
 			(justify left bottom)
 		)
 		(uuid "b5842ae3-b46d-4ade-af6b-c51a3f822313")
+	)
+	(label "LIN"
+		(at 138.43 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe03c6ab-b227-433d-bf0a-7d29289a455e")
 	)
 	(hierarchical_label "RS232_TX"
 		(shape input)
@@ -4607,247 +4637,6 @@
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
 					(reference "R405")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TRS3221EIDBR:TRS3221EIDBR")
-		(at 53.34 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31b84358-f27d-4db2-b5ed-a15efa91f31a")
-		(property "Reference" "U403"
-			(at 68.58 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TRS3221EIDBR"
-			(at 68.58 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TRS3221EIDBR:SOP65P780X200-16N"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Texas Instruments"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "3- to 5.5-V single channel 250kbps RS-232 line driver/receiver with +/-15-kV IEC-ESD protection"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" "SSOP-16"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TRS3221EIDBR"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SSOP-16 Texas Instruments"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "OC_FARNELL" "1755593"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TRS3221EIDBR/Texas+Instruments/view-part/?ref=snap"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "TRS3221EIDBR"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "TEXAS INSTRUMENTS"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "OC_NEWARK" "41M6154"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/TRS3221EIDBR/Texas+Instruments/view-part/?ref=eda"
-			(at 68.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "646f0be1-1c28-4250-8724-d724c0eccca6")
-		)
-		(pin "1"
-			(uuid "97e77e44-e08a-448e-98b4-1655f9bbe97c")
-		)
-		(pin "15"
-			(uuid "543a2339-80a8-4323-9e38-fe1d8e0b48c0")
-		)
-		(pin "3"
-			(uuid "5c652100-2802-4534-a5b1-44f0340c3db1")
-		)
-		(pin "10"
-			(uuid "6775509d-7929-4d63-953a-6a1bc60399be")
-		)
-		(pin "6"
-			(uuid "72c6b224-712c-4b1e-9115-afe0a21b23d2")
-		)
-		(pin "8"
-			(uuid "e099cb0c-def0-4294-a137-7b1ce4bd9892")
-		)
-		(pin "7"
-			(uuid "a5ad02cc-9c80-495c-9d7e-c48818f548e8")
-		)
-		(pin "13"
-			(uuid "c7521138-35e7-49d2-8c6e-2427282ebcf0")
-		)
-		(pin "4"
-			(uuid "51e39906-4d72-4a80-af28-b38fd6e837b5")
-		)
-		(pin "5"
-			(uuid "7ec5f070-bc41-4df0-b0ee-7e910b6cda57")
-		)
-		(pin "16"
-			(uuid "07459dbb-00cd-40e5-9dae-d5fcba4ee8b0")
-		)
-		(pin "14"
-			(uuid "e5d8bb82-ca9c-41c3-b2d3-b2e52f8f20a6")
-		)
-		(pin "12"
-			(uuid "a27e3a6f-3fcd-453d-881b-a6a9e2da02ee")
-		)
-		(pin "2"
-			(uuid "160fa4e9-227a-4bff-a663-50eb6f283f11")
-		)
-		(pin "9"
-			(uuid "f54a1874-44f2-45f9-9222-87ca83fd6f79")
-		)
-		(instances
-			(project ""
-				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
-					(reference "U403")
 					(unit 1)
 				)
 			)
@@ -7253,6 +7042,247 @@
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
 					(reference "C406")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TRS3221EIDBR:TRS3221EIDBR")
+		(at 53.34 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e570e12f-cda9-46af-bf88-fee8ac3f99af")
+		(property "Reference" "U403"
+			(at 68.58 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TRS3221EIDBR"
+			(at 68.58 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TRS3221EIDBR:SOP65P780X200-16N"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 53.34 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Texas Instruments"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "3- to 5.5-V single channel 250kbps RS-232 line driver/receiver with +/-15-kV IEC-ESD protection"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "SSOP-16"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TRS3221EIDBR"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SSOP-16 Texas Instruments"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "OC_FARNELL" "1755593"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TRS3221EIDBR/Texas+Instruments/view-part/?ref=snap"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TRS3221EIDBR"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "TEXAS INSTRUMENTS"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "OC_NEWARK" "41M6154"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TRS3221EIDBR/Texas+Instruments/view-part/?ref=eda"
+			(at 68.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "003d650d-1124-42ae-8d4b-ffc9948a48e7")
+		)
+		(pin "5"
+			(uuid "0bad4280-0b4b-4d51-b4ea-876d0a71fce7")
+		)
+		(pin "3"
+			(uuid "e5ce155e-bd9c-4f6d-87ac-ea11bff5abd3")
+		)
+		(pin "4"
+			(uuid "95a1bdbf-f128-4428-87e6-dcd5aa9d94ae")
+		)
+		(pin "1"
+			(uuid "a8e48227-45ce-4786-bebd-8a891ded23c3")
+		)
+		(pin "16"
+			(uuid "b6620176-3fd8-4d01-91f6-4c2bef691464")
+		)
+		(pin "2"
+			(uuid "0dd0f2f2-78e5-4b14-879f-76064eb52d94")
+		)
+		(pin "15"
+			(uuid "f65d7a9b-d7e2-45a3-b15d-c3c4cf087f61")
+		)
+		(pin "14"
+			(uuid "b9c524a2-64c9-41a6-92b6-624a053b0545")
+		)
+		(pin "9"
+			(uuid "3b6a8ceb-ca93-4d4e-9497-13dbdf03763a")
+		)
+		(pin "13"
+			(uuid "824b33a2-ea78-4c89-b336-21c2e515f0ce")
+		)
+		(pin "12"
+			(uuid "23cce7e8-d195-4599-a7e2-8cb9c4cd2928")
+		)
+		(pin "7"
+			(uuid "03e0909c-a5ce-4d46-950f-67de7685fa0b")
+		)
+		(pin "10"
+			(uuid "b8077bf3-58d9-4552-8f3c-d98e29cec7b9")
+		)
+		(pin "11"
+			(uuid "f9b83831-20b0-4bfe-8568-e0851f44aab8")
+		)
+		(pin "6"
+			(uuid "bbe68924-538a-46e1-854d-aa4ef9b52806")
+		)
+		(instances
+			(project ""
+				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/76364d0f-c268-46d3-bc60-e7b70a775be5"
+					(reference "U403")
 					(unit 1)
 				)
 			)

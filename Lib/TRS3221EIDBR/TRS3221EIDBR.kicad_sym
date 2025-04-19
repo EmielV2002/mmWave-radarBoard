@@ -215,17 +215,17 @@
 					)
 				)
 			)
-			(pin output line
+			(pin input line
 				(at 0 -2.54 0)
 				(length 5.08)
-				(name "ROUT"
+				(name "RIN"
 					(effects
 						(font
 							(size 1.016 1.016)
 						)
 					)
 				)
-				(number "9"
+				(number "8"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -341,17 +341,17 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 30.48 -2.54 180)
 				(length 5.08)
-				(name "RIN"
+				(name "ROUT"
 					(effects
 						(font
 							(size 1.016 1.016)
 						)
 					)
 				)
-				(number "8"
+				(number "9"
 					(effects
 						(font
 							(size 1.016 1.016)
