@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "xWRL6432AOP interface")
-		(date "2025-04-14")
+		(date "2025-04-20")
 		(rev "V1.0")
 		(company "Designer: EV")
 	)
@@ -3737,6 +3737,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3757,6 +3759,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3777,6 +3781,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3797,6 +3803,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3817,6 +3825,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -3837,6 +3847,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left top)
 		)
@@ -6418,7 +6430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 222.25 145.542 90)
 			(effects
 				(font
@@ -6617,7 +6629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 222.25 135.382 90)
 			(effects
 				(font
@@ -6849,7 +6861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 222.25 143.002 90)
 			(effects
 				(font
@@ -7101,7 +7113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6783a4e4-c534-4507-8478-ae83812f1cef")
-		(property "Reference" "U206"
+		(property "Reference" "U205"
 			(at 196.215 20.32 0)
 			(effects
 				(font
@@ -7117,7 +7129,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FCCSP101_AMY_TEX"
+		(property "Footprint" "XI6432B:FCCSP101_AMY_TEX"
 			(at 195.58 148.59 0)
 			(effects
 				(font
@@ -7452,7 +7464,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/67383843-b151-490b-b925-303d04bb18ba"
-					(reference "U206")
+					(reference "U205")
 					(unit 1)
 				)
 			)
@@ -8033,7 +8045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 222.25 140.462 90)
 			(effects
 				(font
@@ -8782,7 +8794,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "MX25R1635FZUIH0:PSON50P200X300X60-9N"
 			(at 238.76 157.48 0)
 			(effects
 				(font
@@ -9549,7 +9561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 222.25 137.922 90)
 			(effects
 				(font
