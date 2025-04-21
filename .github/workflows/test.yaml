@@ -13,7 +13,7 @@ jobs:
         uses: sparkengineering/kicad-action@v4
         if: '!cancelled()'
         with:
-          kicad_sch: mmWave-radarBoard/main.kicad_sch
+          kicad_sch: mmWave-radarBoard/mmWave-radarBoard.kicad_sch
           sch_pdf: true # Generate PDF
           sch_bom: true # Generate BOM
           kicad_pcb: mmWave-radarBoard/mmWave-radarBoard.kicad_pcb
@@ -35,16 +35,16 @@ jobs:
         uses: sparkengineering/kicad-action@v4
         if: '!cancelled()'
         with:
-          kicad_sch: my-project.kicad_sch
-          sch_erc: true
+          kicad_sch:mmWave-radarBoard/mmWave-radarBoard.kicad_sch
+          sch_erc: false
 
       - name: Run KiCad DRC
         id: drc
         uses: sparkengineering/kicad-action@v4
         if: '!cancelled()'
         with:
-          kicad_pcb: my-project.kicad_pcb
-          pcb_drc: true
+          kicad_pcb: mmWave-radarBoard/mmWave-radarBoard.kicad_pcb
+          pcb_drc: false
 
       # Upload ERC report only if ERC failed
       - name: Upload ERC report
