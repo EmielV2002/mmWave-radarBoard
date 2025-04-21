@@ -12,4 +12,5 @@
   (lib (name "TS3A5018RSVR")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TS3A5018RSVR/TS3A5018RSVR.kicad_sym")(options "")(descr ""))
   (lib (name "TS3A44159PWR")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/TS3A44159PWR/TS3A44159PWR.kicad_sym")(options "")(descr ""))
   (lib (name "FT4232HQ")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/FT4232HQ/FT4232HQ.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4120-03-C")(type "KiCad")(uri "D:/Github-repositories/mmWave-radarBoard/Lib/USB4120-03-C/USB4120-03-C.kicad_sym")(options "")(descr ""))
 )
