@@ -35,7 +35,7 @@ jobs:
         uses: sparkengineering/kicad-action@v4
         if: '!cancelled()'
         with:
-          kicad_sch:mmWave-radarBoard/mmWave-radarBoard.kicad_sch
+          kicad_sch: mmWave-radarBoard/mmWave-radarBoard.kicad_sch
           sch_erc: false
 
       - name: Run KiCad DRC
