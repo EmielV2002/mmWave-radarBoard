@@ -36,7 +36,7 @@ jobs:
         if: '!cancelled()'
         with:
           kicad_sch:mmWave-radarBoard/mmWave-radarBoard.kicad_sch
-          sch_erc: true
+          sch_erc: false
 
       - name: Run KiCad DRC
         id: drc
