@@ -1,220 +1,715 @@
-
-(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "SSM3K35AMFV_L3F" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "MOSFET" (id 0) (at 6.35 2.54 0)
-      (effects (font (size 1.27 1.27)) (justify bottom left))
-    )
-    (property "Value" "SSM3K35AMFV_L3F" (id 1) (at 6.35 0.0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom left))
-    )
-    (property "MF" "Toshiba" (id 4) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "Description" "\n                        \n                            N-Channel 20 V 250mA (Ta) 500mW (Ta) Surface Mount VESM\n                        \n" (id 5) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "COPYRIGHT" "Copyright (C) 2024 Ultra Librarian. All rights reserved." (id 6) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "Package" "SOT-723 Toshiba" (id 7) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "Price" "None" (id 8) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "Check_prices" "https://www.snapeda.com/parts/SSM3K35AMFV,L3F/Toshiba/view-part/?ref=eda" (id 9) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "Availability" "In Stock" (id 10) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "SnapEDA_Link" "https://www.snapeda.com/parts/SSM3K35AMFV,L3F/Toshiba/view-part/?ref=snap" (id 11) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "MP" "SSM3K35AMFV,L3F" (id 12) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "MFR_NAME" "Toshiba Electronic Devices & Storage Corp." (id 13) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "MANUFACTURER_PART_NUMBER" "SSM3K35AMFV,L3F" (id 14) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (symbol "SSM3K35AMFV_L3F_0_0"
-      (polyline
-        (pts (xy -1.016 2.54) (xy -1.016 -2.54)) (stroke (width 0.254))
-      )
-      (polyline
-        (pts (xy -1.016 -2.54) (xy -2.54 -2.54)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 2.54 2.54) (xy 2.54 2.159)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 0.508 -2.159) (xy 2.54 -2.159)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 2.54 -2.159) (xy 2.54 -2.54)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 0.381 0.0) (xy 2.54 0.0)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 3.302 0.508) (xy 3.81 0.508)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 3.81 0.508) (xy 4.318 0.508)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 3.81 2.159) (xy 2.54 2.159)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 2.54 2.159) (xy 0.5334 2.159)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 3.81 0.508) (xy 3.81 2.159)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 3.81 -2.159) (xy 3.81 -0.127)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 3.81 -2.159) (xy 2.54 -2.159)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 2.54 0.0) (xy 2.54 -2.159)) (stroke (width 0.1524))
-      )
-      (circle (center 2.54 2.159) (radius 0.127)
-        (stroke (width 0.4064)) (fill (type none))
-      )
-      (circle (center 2.54 -2.159) (radius 0.127)
-        (stroke (width 0.4064)) (fill (type none))
-      )
-      (text "D" (at 1.397 3.556 0)
-        (effects (font (size 0.8128 0.8128)) (justify bottom left))
-      )
-      (text "S" (at 1.397 -4.318 0)
-        (effects (font (size 0.8128 0.8128)) (justify bottom left))
-      )
-      (text "G" (at -4.445 -2.921 0)
-        (effects (font (size 0.8128 0.8128)) (justify bottom left))
-      )
-      (rectangle (start -0.254 -2.794) (end 0.508 -1.27)
-        (stroke (width 0.1)) (fill (type outline))
-      )
-      (rectangle (start -0.254 1.27) (end 0.508 2.794)
-        (stroke (width 0.1)) (fill (type outline))
-      )
-      (rectangle (start -0.254 -0.889) (end 0.508 0.889)
-        (stroke (width 0.1)) (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy 3.81 0.508)
-          (xy 3.302 -0.254)
-          (xy 4.318 -0.254)
-          (xy 3.81 0.508)
-        )
-        (stroke (width 0.1524)) (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy 0.635 0.0)
-          (xy 1.905 -0.508)
-          (xy 1.905 0.508)
-          (xy 0.635 0.0)
-        )
-        (stroke (width 0.1524)) (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy -0.127 -5.08)
-          (xy 0.762 -4.572)
-          (xy 0.762 -5.588)
-          (xy -0.127 -5.08)
-        )
-        (stroke (width 0.254)) (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy -0.127 -5.08)
-          (xy -1.016 -4.572)
-          (xy -1.016 -5.588)
-          (xy -0.127 -5.08)
-        )
-        (stroke (width 0.254)) (fill (type outline))
-      )
-      (polyline
-        (pts (xy -0.127 -4.572) (xy -0.508 -4.318)) (stroke (width 0.254))
-      )
-      (polyline
-        (pts (xy -0.127 -4.572) (xy -0.127 -5.588)) (stroke (width 0.254))
-      )
-      (polyline
-        (pts (xy -0.127 -5.588) (xy 0.254 -5.842)) (stroke (width 0.254))
-      )
-      (polyline
-        (pts (xy 0.889 -5.08) (xy 2.54 -5.08)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.54 -2.54) (xy -2.54 -2.921)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.54 -2.921) (xy -2.794 -3.175)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.794 -3.175) (xy -2.54 -3.429)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.54 -3.429) (xy -2.794 -3.683)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.794 -3.683) (xy -2.54 -3.937)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.54 -3.937) (xy -2.794 -4.191)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.794 -4.191) (xy -2.54 -4.445)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.54 -4.445) (xy -2.54 -5.08)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -1.143 -5.08) (xy -2.54 -5.08)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -2.54 -5.08) (xy -3.81 -5.08)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy 2.54 -5.08) (xy 2.54 -1.778)) (stroke (width 0.1524))
-      )
-      (polyline
-        (pts (xy -3.81 -5.08) (xy -5.08 -5.08)) (stroke (width 0.1524))
-      )
-      (pin passive line (at -5.08 -5.08 0) (length 0)
-        (name "~"
-          (effects (font (size 1.016 1.016)))
-        )
-        (number "1"
-          (effects (font (size 1.016 1.016)))
-        )
-      )
-      (pin passive line (at 2.54 -7.62 90.0) (length 2.54)
-        (name "~"
-          (effects (font (size 1.016 1.016)))
-        )
-        (number "2"
-          (effects (font (size 1.016 1.016)))
-        )
-      )
-      (pin passive line (at 2.54 5.08 270.0) (length 2.54)
-        (name "~"
-          (effects (font (size 1.016 1.016)))
-        )
-        (number "3"
-          (effects (font (size 1.016 1.016)))
-        )
-      )
-    )
-  )
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "SSM3K35AMFV_L3F"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "Q"
+			(at 6.35 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SSM3K35AMFV_L3F"
+			(at 6.35 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "SSM3K35AMFV:VESM_TOS-M"
+			(at -1.27 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/SSM3K35AMFV_datasheet_en_20250423.pdf?did=55390&prodName=SSM3K35AMFV"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Toshiba"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "N-Channel 20 V 250mA (Ta) 500mW (Ta) Surface Mount VESM"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "COPYRIGHT" "Copyright (C) 2024 Ultra Librarian. All rights reserved."
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-723 Toshiba"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SSM3K35AMFV,L3F/Toshiba/view-part/?ref=eda"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SSM3K35AMFV,L3F/Toshiba/view-part/?ref=snap"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SSM3K35AMFV,L3F"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MFR_NAME" "Toshiba Electronic Devices & Storage Corp."
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "SSM3K35AMFV,L3F"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(symbol "SSM3K35AMFV_L3F_0_0"
+			(polyline
+				(pts
+					(xy -3.81 -5.08) (xy -5.08 -5.08)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 -3.175) (xy -2.54 -3.429)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 -3.683) (xy -2.54 -3.937)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 -4.191) (xy -2.54 -4.445)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.54) (xy -2.54 -2.921)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.921) (xy -2.794 -3.175)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -3.429) (xy -2.794 -3.683)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -3.937) (xy -2.794 -4.191)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -4.445) (xy -2.54 -5.08)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -5.08) (xy -3.81 -5.08)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.143 -5.08) (xy -2.54 -5.08)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 2.54) (xy -1.016 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 -2.54) (xy -2.54 -2.54)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -0.254 1.27)
+				(end 0.508 2.794)
+				(stroke
+					(width 0.1)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.254 -0.889)
+				(end 0.508 0.889)
+				(stroke
+					(width 0.1)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -0.254 -2.794)
+				(end 0.508 -1.27)
+				(stroke
+					(width 0.1)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.127 -4.572) (xy -0.508 -4.318)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.127 -4.572) (xy -0.127 -5.588)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.127 -5.08) (xy -1.016 -4.572) (xy -1.016 -5.588) (xy -0.127 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.127 -5.08) (xy 0.762 -4.572) (xy 0.762 -5.588) (xy -0.127 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.127 -5.588) (xy 0.254 -5.842)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.381 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.508 -2.159) (xy 2.54 -2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 0) (xy 1.905 -0.508) (xy 1.905 0.508) (xy 0.635 0)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.889 -5.08) (xy 2.54 -5.08)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 2.54) (xy 2.54 2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 2.159) (xy 0.5334 2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.54 2.159)
+				(radius 0.127)
+				(stroke
+					(width 0.4064)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 2.54 -2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.159) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.54 -2.159)
+				(radius 0.127)
+				(stroke
+					(width 0.4064)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -5.08) (xy 2.54 -1.778)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.302 0.508) (xy 3.81 0.508)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 2.159) (xy 2.54 2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0.508) (xy 3.81 2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0.508) (xy 4.318 0.508)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0.508) (xy 3.302 -0.254) (xy 4.318 -0.254) (xy 3.81 0.508)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -2.159) (xy 2.54 -2.159)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 -2.159) (xy 3.81 -0.127)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(text "G"
+				(at -4.445 -2.921 0)
+				(effects
+					(font
+						(size 0.8128 0.8128)
+					)
+					(justify left bottom)
+				)
+			)
+			(text "S"
+				(at 1.397 -4.318 0)
+				(effects
+					(font
+						(size 0.8128 0.8128)
+					)
+					(justify left bottom)
+				)
+			)
+			(text "D"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 0.8128 0.8128)
+					)
+					(justify left bottom)
+				)
+			)
+			(pin passive line
+				(at -5.08 -5.08 0)
+				(length 0)
+				(name "~"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 5.08 270)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 -7.62 90)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 )

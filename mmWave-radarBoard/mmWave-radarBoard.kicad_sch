@@ -5,8 +5,8 @@
 	(uuid "65d1bf45-0c7d-403c-8da5-e1777d98e937")
 	(paper "A4")
 	(title_block
-		(title "Main")
-		(date "2025-04-20")
+		(title "Power")
+		(date "2025-05-05")
 		(rev "V1.0")
 		(company "Designer: EV")
 	)
@@ -1480,7 +1480,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 63.5) (xy 252.73 63.5)
+			(xy 262.89 63.5) (xy 264.16 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1540,7 +1540,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 186.69) (xy 118.11 186.69)
+			(xy 114.3 186.69) (xy 125.73 186.69)
 		)
 		(stroke
 			(width 0)
@@ -1550,7 +1550,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 68.58) (xy 252.73 68.58)
+			(xy 246.38 68.58) (xy 264.16 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1650,7 +1650,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 179.07) (xy 118.11 179.07)
+			(xy 114.3 179.07) (xy 125.73 179.07)
 		)
 		(stroke
 			(width 0)
@@ -1690,7 +1690,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 80.01) (xy 251.46 78.74)
+			(xy 262.89 80.01) (xy 262.89 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1710,7 +1710,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 184.15) (xy 118.11 184.15)
+			(xy 114.3 184.15) (xy 125.73 184.15)
 		)
 		(stroke
 			(width 0)
@@ -1750,7 +1750,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 189.23) (xy 116.84 190.5)
+			(xy 124.46 189.23) (xy 124.46 190.5)
 		)
 		(stroke
 			(width 0)
@@ -1760,7 +1760,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 62.23) (xy 251.46 63.5)
+			(xy 262.89 62.23) (xy 262.89 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1790,7 +1790,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 73.66) (xy 252.73 73.66)
+			(xy 246.38 73.66) (xy 264.16 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1800,7 +1800,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 176.53) (xy 116.84 176.53)
+			(xy 125.73 176.53) (xy 124.46 176.53)
 		)
 		(stroke
 			(width 0)
@@ -2140,7 +2140,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 71.12) (xy 252.73 71.12)
+			(xy 246.38 71.12) (xy 264.16 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2180,7 +2180,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 66.04) (xy 252.73 66.04)
+			(xy 246.38 66.04) (xy 264.16 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2200,7 +2200,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 78.74) (xy 252.73 78.74)
+			(xy 262.89 78.74) (xy 264.16 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2210,7 +2210,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 181.61) (xy 118.11 181.61)
+			(xy 114.3 181.61) (xy 125.73 181.61)
 		)
 		(stroke
 			(width 0)
@@ -2220,7 +2220,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 176.53) (xy 116.84 175.26)
+			(xy 124.46 176.53) (xy 124.46 175.26)
 		)
 		(stroke
 			(width 0)
@@ -2340,7 +2340,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 76.2) (xy 252.73 76.2)
+			(xy 246.38 76.2) (xy 264.16 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2370,7 +2370,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 189.23) (xy 116.84 189.23)
+			(xy 125.73 189.23) (xy 124.46 189.23)
 		)
 		(stroke
 			(width 0)
@@ -6637,7 +6637,43 @@
 			"egBnAGUAMgBzAEMAMAB1ADIAWABhAFAAcQByAEYATAArAGEANgAwAFcAQQBBAEEAQQBBAEEAQwBF"
 			"AGcAWgBBADgAQQBBAEEAQQBBAEEAQQBBAEEAQQBEAFUAYwA5ADkAVgBKAG8AVAB0AE0AcABKAGoA"
 			"RAB0ADQAZQBtAEgAWQBsAHQAMQBTAEgAdgBIAFAAegBuAFoASwBaAFoAdQArAE4AQgB4AGMATgBr"
-			"AHgAYQA4ACsAYgBwAFkAdwBiAC8AUQA5AGcAQQBBAEkAQQBCAEoAUgBFAEYAVQ=="
+			"AHgAYQA4ACsAYgBwAFkAdwBiAC8AUQA5AGcAQQBBAEkAQQBCAEoAUgBFAEYAVSAiMTA0YjliOTYt"
+			"NzQzZi00NjI3LWIzNTEtMWE3ZWIyMjVmYjUzIikpKGZwX2xpbmUgKHN0YXJ0IC0wLjYgLTEuNjEp"
+			"IChlbmQgLTAuNiAtMS40MSkoc3Ryb2tlICh3aWR0aCAwLjEyKSAodHlwZSBzb2xpZCkpKGxheWVy"
+			"ICJGLlNpbGtTIiApKHV1aWQgIjM3ZjhmYjVkLTVlMjItNDgwOS04ZTI1LWQ1YmVhOGQ4Nzg0OSIp"
+			"KShmcF9saW5lIChzdGFydCAtMS4wMSAtMS42MSkgKGVuZCAtMS44MSAtMS42MSkoc3Ryb2tlICh3"
+			"aWR0aCAwLjEyKSAodHlwZSBzb2xpZCkpKGxheWVyICJGLlNpbGtTIiApKHV1aWQgImZjZmU2OTc1"
+			"LWJhODktNDI5MS04YTQyLWYyYmEwNDMyZjNjYyIpKShmcF9saW5lIChzdGFydCAtMS44MSAtMS42"
+			"MSkgKGVuZCAtMS44MSAtMC44MSkoc3Ryb2tlICh3aWR0aCAwLjEyKSAodHlwZSBzb2xpZCkpKGxh"
+			"eWVyICJGLlNpbGtTIiApKHV1aWQgIjkwYWUwMmU1LTdjNDItNDU5MC05YTdhLTYyNzU5MTNmODJh"
+			"NyIpKShmcF9saW5lIChzdGFydCAtMC4zIC0xLjUxKSAoZW5kIC0wLjYgLTEuNTEpKHN0cm9rZSAo"
+			"d2lkdGggMC4xMikgKHR5cGUgc29saWQpKShsYXllciAiRi5TaWxrUyIgKSh1dWlkICJhZjczY2Q2"
+			"My1iYWZkLTQ5OTktODc4OS01YzZjNjMwNWU1NGMiKSkoZnBfbGluZSAoc3RhcnQgMTAuNjEgLTEu"
+			"NDEpIChlbmQgLTEuNjEgLTEuNDEpKHN0cm9rZSAod2lkdGggMC4xMikgKHR5cGUgc29saWQpKShs"
+			"YXllciAiRi5TaWxrUyIgKSh1dWlkICIzOGU4NjA1ZS0zMjZiLTQ0N2MtOTE3Yi00OTY0YmRlOGFh"
+			"NTgiKSkoZnBfbGluZSAoc3RhcnQgLTAuMyAtMS40MSkgKGVuZCAtMC4zIC0xLjYxKShzdHJva2Ug"
+			"KHdpZHRoIDAuMTIpICh0eXBlIHNvbGlkKSkobGF5ZXIgIkYuU2lsa1MiICkodXVpZCAiMTFmZDNh"
+			"YjQtMjJjMS00ZjU1LTk5ZTAtNGVhMWVjYzVhYjgwIikpKGZwX2xpbmUgKHN0YXJ0IC0xLjYxIC0x"
+			"LjQxKSAoZW5kIC0xLjYxIDIuMzEpKHN0cm9rZSAod2lkdGggMC4xMikgKHR5cGUgc29saWQpKShs"
+			"YXllciAiRi5TaWxrUyIgKSh1dWlkICJiZGFhNWUwOS1mMzdiLTRjOTMtYjRhZABEAG8ATQBJAFgA"
+			"awBBAEEAQQBBAEEAQQBBAEEAQQBBAFAAZwB0AGYATgBNADAARwBzAHMAMgA3AC8AcABFAEYAYwBk"
+			"AEIAWQAyADUAYwB5AFcAWgBhAHEAawBQAE0AbQB3AHMAdQBBAHMALwBqAHUAOQBxAHkAQgB6AGQA"
+			"UABoAEsAKwBiAFAAbQBkAHcAbAAxAGEAaQBaAFgAWgB4AHIAdwA1ADEAWQBMAFYAWgBEADMAZQBh"
+			"AE4AagBTAGMANwBIAEEAdwBPAHYAcgA5AFYAOAA3AEoAdgBJADgAdgBJAHYAZQB2AEcAcQA4ADAA"
+			"YgBQADcAdQBWACsASwBsAEIAbwBqAGsAUABmAGUAZQAzAHYATQBQAGkANABYAE8AWgB4ADQAOQAv"
+			"AGMAUgBaAGMAMABGAFcANQBwAE8AYgBIAHEANwBqAGwAWAByAFoAegAzAHUAYQBJAC8AagBsAHYA"
+			"cgAwADQATwBVAHAANQB5AEwAegBaAFoAMgBPAGUAYwBGAC8AdABTADkATABkAEkAUABmAHgAcABz"
+			"AGEAcQBaADkAOQB3ACsAeABWAEoAagA1AG4ASwBsAGgAQwA0AHUAeQA0AHMAVQA5AEIAMABsADAA"
+			"KwBGAE0AVwArAFUAbgB2AG4AdwAxAG8AWABGAGQANQAyAGYAYwBIAGkAcwBVAFYAOQBOAHgAegAz"
+			"ACsALwAvADYAWAB3AFgAbgAvAHYAbgA5AE0AdQBoAHUAMABmAHAAUgBSAGIANAAwAEQAegA5AEkA"
+			"RgBCAHIAdgB6AGsAZwAvADEANgA3AHoAbQB6AG8ATgBzADkAcgA0AFMAbwA0ADUAZAAvADAAOQBD"
+			"ADgAQgAwAFYARQA4ADIAOAA1AGoAcQA4AFgAMgB2AHIAegBWAHYAKwBlAGYAdgB1AEcALwBmAHUA"
+			"UABzAFoARgBlAE4AcQBZADkAWgBKAGMAZQB2AFcAdAA0AEUAYwBjAEcAcQBaAGYAdAB4ACsAOABh"
+			"AE0AMwBEAGoATwB6AC8AcwAzAGYAdgA4AFYAQgAwAGIAdwBEAEEAbgA3AFYAeQBLADMANABLAGkA"
+			"VQBvAGkAUgBZAHAAUwBwAEIAUQBpAHAAWABTAG4AUwBJAGwASwBxAFYAUQBVAHAAWABSAEIARgA1"
+			"AFcAVQA3AHEAVwBiAFIAQwBSADAAbABXADcASwB2AFMAaAA1AFUAMwBRAFQAUwBaAEYAQwBpAFoA"
+			"TABGADIAdAA4AGYATQArAHUANgB1ADkAYQBsAEsATQAvADMANAAvAE4ANQB6ADgAeQBjAG0AVABr"
+			"AHoAdgBNADMAdQBQAE8AYwA1AGgAMgB6AHEAcQArAHYAMwBzAHIAZwA1AEsAVQ=="
 		)
 	)
 	(table
@@ -6948,7 +6984,7 @@
 		)
 	)
 	(label "FTDI_SPI_CLK"
-		(at 234.95 68.58 0)
+		(at 246.38 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7028,7 +7064,7 @@
 		(uuid "1319f81c-ee57-477d-b758-9e461c9adbef")
 	)
 	(label "TDI"
-		(at 106.68 181.61 0)
+		(at 114.3 181.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7058,7 +7094,7 @@
 		(uuid "1d2033c1-a4a6-4675-bbfd-66ecd533e97d")
 	)
 	(label "FTDI_HOST_INT_1"
-		(at 234.95 66.04 0)
+		(at 246.38 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7198,7 +7234,7 @@
 		(uuid "447ccc5b-f57d-4842-b472-6b4838f182ca")
 	)
 	(label "TDO_SOP0"
-		(at 106.68 184.15 0)
+		(at 114.3 184.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7218,7 +7254,7 @@
 		(uuid "5c55da99-1190-478b-9a8f-f6bef6c38ae4")
 	)
 	(label "FTDI_SPI_MOSI"
-		(at 234.95 76.2 0)
+		(at 246.38 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7278,7 +7314,7 @@
 		(uuid "68c479d4-92f3-4eb1-98d6-cf1831274ada")
 	)
 	(label "FTDI_SPI_MISO"
-		(at 234.95 73.66 0)
+		(at 246.38 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7508,7 +7544,7 @@
 		(uuid "a7f587d1-02ab-469d-b392-d69f3ab5dd31")
 	)
 	(label "TMS"
-		(at 106.68 186.69 0)
+		(at 114.3 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7558,7 +7594,7 @@
 		(uuid "d0c67dc7-eed3-49ee-9b97-aaa016088543")
 	)
 	(label "TCK"
-		(at 106.68 179.07 0)
+		(at 114.3 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7568,7 +7604,7 @@
 		(uuid "d0d099ad-a85e-452b-a24c-678605a0aa72")
 	)
 	(label "FTDI_SPI_CS"
-		(at 234.95 71.12 0)
+		(at 246.38 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7659,7 +7695,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x07_Socket")
-		(at 257.81 71.12 0)
+		(at 269.24 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7667,8 +7703,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "114d63d9-47e0-4049-9702-ca1e625b90fd")
-		(property "Reference" "J102"
-			(at 259.08 69.8499 0)
+		(property "Reference" "J1"
+			(at 270.51 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7677,16 +7713,17 @@
 			)
 		)
 		(property "Value" "Conn_01x07_Socket"
-			(at 259.08 72.3899 0)
+			(at 270.51 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_ZH_B7B-ZR_1x07_P1.50mm_Vertical"
-			(at 257.81 71.12 0)
+			(at 269.24 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7695,7 +7732,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 71.12 0)
+			(at 269.24 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7704,7 +7741,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
-			(at 257.81 71.12 0)
+			(at 269.24 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7736,7 +7773,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "J102")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -7752,7 +7789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11b7fc37-15c2-4ba8-8046-a215645f3a4b")
-		(property "Reference" "H102"
+		(property "Reference" "H2"
 			(at 217.17 24.1299 0)
 			(effects
 				(font
@@ -7804,7 +7841,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "H102")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -7820,7 +7857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4112eb62-e291-42c0-85da-dd28e7525a67")
-		(property "Reference" "H103"
+		(property "Reference" "H3"
 			(at 201.93 38.0999 0)
 			(effects
 				(font
@@ -7872,7 +7909,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "H103")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -7888,7 +7925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45f0f2ef-5dda-43a1-a774-a0eb4465b126")
-		(property "Reference" "R320"
+		(property "Reference" "R1"
 			(at 208.28 67.3099 0)
 			(effects
 				(font
@@ -7942,7 +7979,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "R320")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -7951,15 +7988,15 @@
 	(symbol
 		(lib_id "Connector:Conn_01x03_Socket")
 		(at 227.33 76.2 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "46e8c290-1516-4943-bcaf-02b88216d68d")
-		(property "Reference" "J101"
-			(at 228.6 74.9299 0)
+		(property "Reference" "J2"
+			(at 228.6 77.4701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7968,12 +8005,13 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Socket"
-			(at 228.6 77.4699 0)
+			(at 228.6 74.9301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_ZE_B03B-ZESK-D_1x03_P1.50mm_Vertical"
@@ -8015,7 +8053,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "J101")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -8031,7 +8069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5adc3a80-87c0-41fd-b57b-74fad0152390")
-		(property "Reference" "R321"
+		(property "Reference" "R2"
 			(at 218.44 67.3099 0)
 			(effects
 				(font
@@ -8085,7 +8123,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "R321")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -8101,7 +8139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fcf7a13-b8b7-4b09-93fd-4c5e76b7bf1d")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR03"
 			(at 199.39 49.53 0)
 			(effects
 				(font
@@ -8151,7 +8189,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0103")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -8167,7 +8205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dd08398-3a9d-4a2f-81a1-bce870e7af35")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR01"
 			(at 199.39 35.56 0)
 			(effects
 				(font
@@ -8217,7 +8255,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0101")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -8225,7 +8263,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 116.84 190.5 0)
+		(at 124.46 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8233,8 +8271,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a55a1266-fa11-4551-bbd7-1fe34a4f2845")
-		(property "Reference" "#PWR0109"
-			(at 116.84 196.85 0)
+		(property "Reference" "#PWR010"
+			(at 124.46 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8243,7 +8281,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 195.58 0)
+			(at 124.46 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,7 +8289,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 190.5 0)
+			(at 124.46 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8260,7 +8298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 190.5 0)
+			(at 124.46 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8269,7 +8307,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 190.5 0)
+			(at 124.46 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8283,7 +8321,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0109")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8291,7 +8329,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Socket")
-		(at 123.19 181.61 0)
+		(at 130.81 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8299,8 +8337,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6b0ad83-40fe-422a-a17f-adececed1351")
-		(property "Reference" "J103"
-			(at 124.46 181.6099 0)
+		(property "Reference" "J3"
+			(at 132.08 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8309,16 +8347,17 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Socket"
-			(at 124.46 184.1499 0)
+			(at 132.08 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical"
-			(at 123.19 181.61 0)
+			(at 130.81 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8327,7 +8366,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 181.61 0)
+			(at 130.81 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8336,7 +8375,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 123.19 181.61 0)
+			(at 130.81 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8365,7 +8404,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "J103")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -8381,7 +8420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c22e6ffc-7184-4525-8e04-d152dede09a3")
-		(property "Reference" "H104"
+		(property "Reference" "H4"
 			(at 217.17 38.0999 0)
 			(effects
 				(font
@@ -8433,7 +8472,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "H104")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -8449,7 +8488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c710f542-c806-4672-acaa-7559cff31aac")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR04"
 			(at 214.63 49.53 0)
 			(effects
 				(font
@@ -8499,7 +8538,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0104")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -8507,7 +8546,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 116.84 175.26 0)
+		(at 124.46 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8515,8 +8554,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c761e950-83a5-490a-9417-7ca9fdb30667")
-		(property "Reference" "#PWR0108"
-			(at 116.84 179.07 0)
+		(property "Reference" "#PWR09"
+			(at 124.46 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8525,7 +8564,7 @@
 			)
 		)
 		(property "Value" "VCC_3V3"
-			(at 116.84 170.18 0)
+			(at 124.46 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8533,7 +8572,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 175.26 0)
+			(at 124.46 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8542,7 +8581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 175.26 0)
+			(at 124.46 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8551,7 +8590,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 116.84 175.26 0)
+			(at 124.46 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8565,7 +8604,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0108")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -8581,7 +8620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc813c1c-56c9-4328-a72e-f98f3742fea7")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR02"
 			(at 214.63 35.56 0)
 			(effects
 				(font
@@ -8631,7 +8670,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0102")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8647,7 +8686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccec75d6-0b20-4602-b256-973337b22733")
-		(property "Reference" "H101"
+		(property "Reference" "H1"
 			(at 201.93 24.1299 0)
 			(effects
 				(font
@@ -8699,7 +8738,7 @@
 		(instances
 			(project ""
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "H101")
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -8715,7 +8754,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eafd8746-dd37-4266-a9f8-f080faec189f")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR07"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -8765,7 +8804,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0106")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -8781,7 +8820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef422d00-8788-414d-a08e-6ddbf6e20b9f")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR05"
 			(at 210.82 66.04 0)
 			(effects
 				(font
@@ -8831,7 +8870,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0110")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -8839,7 +8878,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 251.46 62.23 0)
+		(at 262.89 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8847,8 +8886,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f23dafa1-71d4-44fb-a240-9eb3c631edb4")
-		(property "Reference" "#PWR0105"
-			(at 251.46 66.04 0)
+		(property "Reference" "#PWR06"
+			(at 262.89 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8857,7 +8896,7 @@
 			)
 		)
 		(property "Value" "VCC_3V3"
-			(at 251.46 57.15 0)
+			(at 262.89 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8865,7 +8904,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 62.23 0)
+			(at 262.89 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8874,7 +8913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 62.23 0)
+			(at 262.89 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8883,7 +8922,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 251.46 62.23 0)
+			(at 262.89 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8897,7 +8936,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0105")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -8905,7 +8944,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 251.46 80.01 0)
+		(at 262.89 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8913,8 +8952,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffd07eb3-82fc-4429-a9ee-4b9b047bc289")
-		(property "Reference" "#PWR0107"
-			(at 251.46 86.36 0)
+		(property "Reference" "#PWR08"
+			(at 262.89 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8923,7 +8962,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 251.46 85.09 0)
+			(at 262.89 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8931,7 +8970,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 80.01 0)
+			(at 262.89 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8940,7 +8979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 80.01 0)
+			(at 262.89 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8949,7 +8988,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 251.46 80.01 0)
+			(at 262.89 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8963,7 +9002,7 @@
 		(instances
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937"
-					(reference "#PWR0107")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8982,7 +9021,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 255 0 0 0.2000)
 		)
 		(uuid "63e9aa23-19c0-43a2-8100-8d16d5100cb9")
 		(property "Sheetname" "Power"
@@ -9064,7 +9103,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 132 132 132 0.2000)
 		)
 		(uuid "67383843-b151-490b-b925-303d04bb18ba")
 		(property "Sheetname" "xWRL6432AOP interface"
@@ -9266,7 +9305,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 255 0.2000)
 		)
 		(uuid "76364d0f-c268-46d3-bc60-e7b70a775be5")
 		(property "Sheetname" "COM busses"
@@ -9387,7 +9426,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 255 255 0 0.2000)
 		)
 		(uuid "9f94e9cc-adeb-492b-8499-6acdeac38b77")
 		(property "Sheetname" "Muxes"
@@ -9639,7 +9678,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 255 0.2000)
 		)
 		(uuid "c3a0dc42-1da9-4c23-98a3-0f3fa36ef98f")
 		(property "Sheetname" "FTDI"
