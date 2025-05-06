@@ -3969,12 +3969,6 @@
 		(uuid "a824847c-5e31-4508-8a1d-80b5cda7c610")
 	)
 	(junction
-		(at 140.97 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aa9175c3-2e26-4b04-bf68-c69fc38a7807")
-	)
-	(junction
 		(at 120.65 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4136,7 +4130,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 44.45) (xy 140.97 45.72)
+			(xy 140.97 43.18) (xy 140.97 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5076,16 +5070,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 44.45) (xy 140.97 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4dfc6eb-3ad2-45e0-83cb-12f70305bb84")
-	)
-	(wire
-		(pts
 			(xy 69.85 124.46) (xy 72.39 124.46)
 		)
 		(stroke
@@ -5363,16 +5347,6 @@
 			(type default)
 		)
 		(uuid "f735a7eb-c67a-49a6-b6e5-828ce6222fff")
-	)
-	(wire
-		(pts
-			(xy 140.97 43.18) (xy 140.97 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f73a2c9e-90c8-47fa-ba28-924e0d13cfda")
 	)
 	(wire
 		(pts
@@ -8294,7 +8268,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 45.72 0)
+		(at 140.97 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8303,7 +8277,7 @@
 		(fields_autoplaced yes)
 		(uuid "a960b5ad-d0f6-4e79-a364-40cc40ee8efa")
 		(property "Reference" "#PWR0171"
-			(at 140.97 52.07 0)
+			(at 140.97 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8312,7 +8286,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 50.8 0)
+			(at 140.97 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8320,7 +8294,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 45.72 0)
+			(at 140.97 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8329,7 +8303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 45.72 0)
+			(at 140.97 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8338,7 +8312,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 45.72 0)
+			(at 140.97 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9195,71 +9169,6 @@
 			(project "mmWave-radarBoard"
 				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/67383843-b151-490b-b925-303d04bb18ba"
 					(reference "#PWR0179")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 135.89 44.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e628f1aa-60d7-4f81-9075-eab7eccbed1e")
-		(property "Reference" "TP12"
-			(at 132.588 39.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 132.588 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 135.89 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 135.89 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "237b88de-c73e-4ca8-baf1-6d4a4c8b51f4")
-		)
-		(instances
-			(project "mmWave-radarBoard"
-				(path "/65d1bf45-0c7d-403c-8da5-e1777d98e937/67383843-b151-490b-b925-303d04bb18ba"
-					(reference "TP12")
 					(unit 1)
 				)
 			)
